@@ -1,0 +1,353 @@
+tag_key,key_value
+addr:street,Day Street
+addr:street,Howe Street
+addr:street,Pitt Street
+addr:street,Martin Place
+addr:street,Market Street
+addr:street,Park Street
+addr:street,Wentworth Avenue
+addr:street,College Street
+addr:street,Liverpool Street
+addr:street,536 New South Head Rd
+addr:street,Murray Street
+addr:street,George Street
+addr:street,Anzac Parade
+addr:street,Mona Vale Road
+addr:street,Acacia Road
+addr:street,Princes Highway
+addr:street,Agincourt Road
+addr:street,St Johns Road
+addr:street,Forest Road
+addr:street,King Georges Road
+amenity,ferry_terminal
+amenity,drinking_water
+amenity,swimming_pool
+amenity,school
+amenity,library
+amenity,place_of_worship
+amenity,toilets
+amenity,shower
+amenity,parking
+amenity,bus_station
+amenity,post_box
+amenity,public_building
+amenity,fire_station
+amenity,police
+amenity,bbq
+amenity,changing_room
+amenity,cafe
+amenity,pub
+amenity,hospital
+amenity,theatre
+bicycle,yes
+bicycle,no
+bicycle,designated
+bicycle,dismount
+bicycle,permissive
+bicycle,lane
+bicycle,designated; yes
+bicycle,tolerated
+bicycle,private
+bicycle,enthusiastic
+bicycle,mountain
+bicycle,Yes
+bicycle,probably
+bicycle,hassle
+building,yes
+building,entrance
+building,greenhouse
+building,church
+building,office
+building,apartments
+building,residential
+building,exit
+building,industrial
+building,Roseville Returned Servicemen's Memorial Club
+building,commercial
+building,school
+building,house
+building,temple
+building,aquatic_centre
+building,stadium
+building,shop
+building,mall
+building,retail
+building,leisure
+created_by,Potlatch 0.4b
+created_by,Potlatch 0.4a
+created_by,JOSM
+created_by,Mike Collinson
+created_by,almien_coastlines
+created_by,Potlatch alpha
+created_by,Potlatch 0.5d
+created_by,Potlatch 0.10f
+created_by,Potlatch 0.5a
+created_by,Potlatch 0.9c
+created_by,Potlatch 0.4c
+created_by,Potlatch 0.10b
+created_by,xybot
+created_by,Potlatch 0.5b
+created_by,YahooApplet 1.0
+created_by,Potlatch 0.7
+created_by,Potlatch 0.7a
+created_by,Merkaartor 0.13
+created_by,Potlatch 0.7b
+created_by,Potlatch 0.6
+foot,yes
+foot,no
+foot,private
+foot,designated
+foot,permissive
+foot,walkway
+foot,desginated
+highway,traffic_signals
+highway,crossing
+highway,turning_circle
+highway,motorway_junction
+highway,bus_stop
+highway,speed_camera
+highway,mini_roundabout
+highway,residential
+highway,street_lamp
+highway,crossing; traffic_signals
+highway,steps
+highway,passing_place
+highway,platform
+highway,footway
+highway,give_way
+highway,elevator
+highway,traffic_calming
+highway,traffic_sign
+highway,rest_area
+highway,cycleway
+landuse,cemetery
+landuse,recreation_ground
+landuse,quarry
+landuse,industrial
+landuse,reservoir
+landuse,residential
+landuse,commercial
+landuse,brownfield
+landuse,military
+landuse,forest
+landuse,retail
+landuse,conservation
+landuse,field
+landuse,grass
+landuse,construction
+landuse,railway
+landuse,landfill
+landuse,allotments
+landuse,farm
+landuse,farmyard
+layer,1
+layer,-1
+layer,2
+layer,-2
+layer,0
+layer,-3
+layer,3
+layer,-5
+layer,-4
+layer,5
+layer,4
+layer,+1
+leisure,park
+leisure,marina
+leisure,playground
+leisure,swimming_pool
+leisure,fishing
+leisure,sports_centre
+leisure,garden
+leisure,beach
+leisure,slipway
+leisure,stadium
+leisure,track
+leisure,golf_course
+leisure,pitch
+leisure,bird_hide
+leisure,dance
+leisure,paddling_pool
+leisure,yacht club
+leisure,tennis_court
+leisure,picnic_table
+leisure,skate_park
+maxspeed,70
+maxspeed,60
+maxspeed,8 knots
+maxspeed,50
+maxspeed,55
+maxspeed,45
+maxspeed,65
+maxspeed,25
+maxspeed,80
+maxspeed,40
+maxspeed,30
+maxspeed,40 mph
+maxspeed,10
+maxspeed,90
+maxspeed,100
+maxspeed,signals
+maxspeed,110
+maxspeed,8
+maxspeed,20
+maxspeed,60; 70
+name,Wharf 5
+name,Balmain East
+name,Wharf 4
+name,Balmain
+name,Milsons Point Wharf
+name,Wharf 3
+name,Kurraba Point
+name,Queen Elizabeth II Gate
+name,Showground Gates
+name,Exhibition
+name,Wentworth Park
+name,Glebe
+name,St James
+name,Hyde Park
+name,Cook and Phillip Park
+name,Surry Hills
+name,Sydney
+name,Pyrmont
+name,International Grammar School
+name,Ultimo Library
+oneway,yes
+oneway,no
+oneway,-1
+operator,CityLink
+operator,CityRail
+operator,Wilson Parking
+operator,Roads and Maritime Services
+operator,Accor
+operator,7-Eleven
+operator,Sydney Trains
+operator,accor
+operator,Bankstown Airport ltd.
+operator,BP
+operator,North Sydney Council
+operator,Australia Post
+operator,Burmah
+operator,Crown Land
+operator,Independent
+operator,Veolia
+operator,Caltex
+operator,Budget
+operator,Sydney Ferries
+operator,South Pacific Electric Railway
+railway,station
+railway,subway_entrance
+railway,disused
+railway,buffer_stop
+railway,tram_stop
+railway,level_crossing
+railway,crossing
+railway,turntable
+railway,light_rail
+railway,rail
+railway,abandoned
+railway,platform
+railway,tram
+railway,construction
+railway,miniature
+railway,historic
+ref,T1
+ref,203595
+ref,25
+ref,34R
+ref,34L
+ref,16R
+ref,16L
+ref,TL92Z 21
+ref,TL959 20
+ref,TL959 19
+ref,T3
+ref,T2
+ref,A
+ref,112
+ref,110
+ref,92
+ref,13
+ref,11
+ref,9
+ref,7
+service,aircraft_control
+service,driveway
+service,alley
+service,parking_aisle
+service,yard
+service,drive-through
+service,bus
+service,yes
+service,bicycle_training_track
+service,parking
+service,emergency_access
+service,slipway
+service,siding
+service,nearmap
+service,bing
+service,spur
+service,King Lane
+service,parkinglane
+service,parking lane
+service,Small Lane
+source,survey
+source,knowledge
+source,PGS
+source,historical
+source,nearmap
+source,yahoo_imagery
+source,visual inspection
+source,fire.nsw.gov.au
+source,police.nsw.gov.au
+source,Bing
+source,bing
+source,2005/6 survey
+source,survey;Bing
+source,local_knowledge
+source,US NGA Pub. 111. 2010-09-02.
+source,wikipedia
+source,ABS2011-data.gov.au;bing
+source,ABS2011-data.gov.au
+source,GPS survey
+source,yahoo
+source:name,historical
+source:name,knowledge
+source:name,survey
+source:name,local_knowledge
+source:name,voice
+source:name,guess
+source:name,extrapolation from signs from survey
+source:name,2005/6 survey
+source:name,painted on the side of it
+source:name,sign (northern end)
+source:name,sign
+source:name,official
+source:name,wikipedia
+source:name,survey:09/07
+source:name,2005/5 survey
+source:name,sign (southern end)
+source:name,road sign
+source:name,2006 survey
+source:name,sign (eastern end)
+source:name,name
+surface,unpaved
+surface,asphalt
+surface,brick
+surface,concrete
+surface,paved
+surface,paving_stones
+surface,duckboard
+surface,ground
+surface,gravel
+surface,sand
+surface,grass
+surface,dirt
+surface,metal
+surface,paved; unpaved
+surface,bricks
+surface,unpaved; paved
+surface,Overgrown
+surface,dirt/rock
+surface,wood
+surface,dirt/rocks

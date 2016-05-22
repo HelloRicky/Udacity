@@ -1,0 +1,3371 @@
+id,key,value,type
+624854,crossing,traffic_signals,regular
+624854,highway,traffic_signals,regular
+8588632,highway,traffic_signals,regular
+11978501,created_by,JOSM,regular
+12041015,created_by,JOSM,regular
+12041136,created_by,JOSM,regular
+12041196,created_by,JOSM,regular
+12224376,created_by,JOSM,regular
+12233101,created_by,JOSM,regular
+12233202,created_by,JOSM,regular
+13767731,amenity,school,regular
+13767731,created_by,JOSM,regular
+13767731,name,International Grammar School,regular
+13797867,created_by,JOSM,regular
+13797892,created_by,JOSM,regular
+13797917,created_by,JOSM,regular
+13797942,created_by,JOSM,regular
+13797967,created_by,JOSM,regular
+13797992,created_by,JOSM,regular
+13798017,created_by,JOSM,regular
+13798042,created_by,JOSM,regular
+13798067,created_by,JOSM,regular
+13798334,created_by,JOSM,regular
+13798362,created_by,JOSM,regular
+13798389,created_by,JOSM,regular
+13798416,created_by,JOSM,regular
+13806607,source,PGS,regular
+13808819,source,PGS,regular
+13809615,created_by,almien_coastlines,regular
+13809615,source,PGS,regular
+13809877,created_by,almien_coastlines,regular
+13809877,source,PGS,regular
+13810941,created_by,almien_coastlines,regular
+13810941,source,PGS,regular
+13811159,created_by,almien_coastlines,regular
+13811159,source,PGS,regular
+13811688,source,PGS,regular
+13811872,source,PGS,regular
+13812005,created_by,almien_coastlines,regular
+13812005,source,PGS,regular
+13812136,source,PGS,regular
+13812273,source,PGS,regular
+13812428,source,PGS,regular
+13813043,created_by,almien_coastlines,regular
+13813043,source,PGS,regular
+13813318,source,PGS,regular
+13813709,source,PGS,regular
+13813924,source,PGS,regular
+13814298,source,PGS,regular
+13814416,source,PGS,regular
+13814556,source,PGS,regular
+13814689,created_by,almien_coastlines,regular
+13814689,source,PGS,regular
+13815099,created_by,almien_coastlines,regular
+13815099,source,PGS,regular
+13815322,source,PGS,regular
+13815554,created_by,almien_coastlines,regular
+13815554,source,PGS,regular
+13815661,source,PGS,regular
+13815758,source,PGS,regular
+13815868,source,PGS,regular
+13816003,source,PGS,regular
+13816107,source,PGS,regular
+13816347,source,PGS,regular
+13816710,created_by,almien_coastlines,regular
+13816710,source,PGS,regular
+13817281,source,nearmap,regular
+13817963,source,PGS,regular
+13818073,created_by,almien_coastlines,regular
+13818073,source,PGS,regular
+13818322,source,PGS,regular
+13818473,source,PGS,regular
+13818746,source,PGS,regular
+13818880,source,PGS,regular
+13819505,source,PGS,regular
+13819874,source,PGS,regular
+13819967,source,PGS,regular
+13886657,created_by,JOSM,regular
+13887162,created_by,JOSM,regular
+13887197,created_by,JOSM,regular
+14277831,created_by,JOSM,regular
+14296362,created_by,JOSM,regular
+14697022,created_by,JOSM,regular
+14755712,created_by,JOSM,regular
+14755976,created_by,JOSM,regular
+14756008,created_by,JOSM,regular
+14756042,created_by,JOSM,regular
+14756076,created_by,JOSM,regular
+14758013,created_by,JOSM,regular
+14759564,highway,traffic_signals,regular
+15179265,amenity,toilets,regular
+15395912,created_by,JOSM,regular
+15398483,created_by,JOSM,regular
+15398543,created_by,JOSM,regular
+15405025,highway,traffic_signals,regular
+15407245,highway,traffic_signals,regular
+15448410,highway,traffic_signals,regular
+17922147,created_by,JOSM,regular
+17922202,created_by,JOSM,regular
+17922244,amenity,bus_station,regular
+17922738,is_in,"Australia, NSW, New South Wales, Sydney",regular
+17922738,name,Cronulla,regular
+17922738,place,suburb,regular
+18249984,amenity,bus_station,regular
+18261380,name,Quibray Bay Viewing Platform,regular
+18261380,name,survey,source
+18261380,tourism,viewpoint,regular
+18262077,created_by,JOSM,regular
+18262167,created_by,JOSM,regular
+18263622,created_by,JOSM,regular
+18263649,created_by,JOSM,regular
+18263683,created_by,JOSM,regular
+18263718,created_by,JOSM,regular
+18323764,amenity,parking,regular
+18323764,created_by,JOSM,regular
+18323875,created_by,JOSM,regular
+18370040,created_by,JOSM,regular
+18370040,is_in,"Australia, NSW, New South Wales, Sydney",regular
+18370040,name,North Sydney,regular
+18370040,place,suburb,regular
+18454495,amenity,pub,regular
+18454495,is_in,"Australia, NSW, New South Wales, Sydney",regular
+18454495,name,Iron Duke Hotel,regular
+18460299,amenity,cafe,regular
+18460299,created_by,JOSM,regular
+18460299,name,Bytes @ ATP,regular
+18466374,created_by,JOSM,regular
+18468945,amenity,toilets,regular
+18469051,leisure,playground,regular
+18507485,created_by,JOSM,regular
+18511749,created_by,JOSM,regular
+18516364,created_by,JOSM,regular
+18516588,created_by,JOSM,regular
+18521582,created_by,JOSM,regular
+18531318,created_by,JOSM,regular
+18820247,created_by,JOSM,regular
+18845141,created_by,JOSM,regular
+18845448,created_by,JOSM,regular
+18866107,created_by,JOSM,regular
+19134842,created_by,JOSM,regular
+19134960,created_by,JOSM,regular
+19140729,created_by,JOSM,regular
+19145530,created_by,JOSM,regular
+19145530,source,survey,regular
+19145700,created_by,JOSM,regular
+19151658,created_by,JOSM,regular
+19160700,highway,traffic_signals,regular
+19170358,created_by,JOSM,regular
+19170358,leisure,playground,regular
+19963044,highway,traffic_signals,regular
+19963044,type,enforcement,regular
+19971978,created_by,JOSM,regular
+19972101,created_by,JOSM,regular
+19975321,created_by,JOSM,regular
+19978894,name,Artarmon,regular
+19978894,operator,CityLink,regular
+19978894,public_transport,station,regular
+19978894,railway,station,regular
+20163873,barrier,toll_booth,regular
+20633550,created_by,JOSM,regular
+20827885,highway,traffic_signals,regular
+20930458,amenity,pub,regular
+20930458,created_by,JOSM,regular
+20930458,name,Strattons Hotel,regular
+20930513,name,Pensione Hotel,regular
+20930513,tourism,hotel,regular
+20930650,amenity,pub,regular
+20930650,name,Bar Broadway,regular
+20954707,created_by,JOSM,regular
+20954732,created_by,JOSM,regular
+20959036,amenity,restaurant,regular
+20959036,name,Wolfie's Restaurant Grill,regular
+20959236,highway,traffic_signals,regular
+20979868,amenity,restaurant,regular
+20979868,created_by,JOSM,regular
+20979868,name,Nicks,regular
+20979901,amenity,parking,regular
+20979901,created_by,JOSM,regular
+20979901,name,Swiss Grand,regular
+20979942,amenity,cafe,regular
+20979942,name,Blue Orange,regular
+20980061,amenity,fast_food,regular
+20980061,created_by,JOSM,regular
+20980061,name,New Zealand Natural,regular
+20980087,amenity,cafe,regular
+20980087,name,Gabby's Cafe,regular
+21400515,created_by,JOSM,regular
+21400678,created_by,JOSM,regular
+21401318,highway,traffic_signals,regular
+21703248,highway,traffic_signals,regular
+25843302,created_by,JOSM,regular
+26049759,created_by,JOSM,regular
+26380678,barrier,gate,regular
+26380678,bicycle,yes,regular
+26380678,foot,yes,regular
+26524436,created_by,YahooApplet 1.0,regular
+26524874,created_by,YahooApplet 1.0,regular
+26524947,created_by,YahooApplet 1.0,regular
+26525018,created_by,YahooApplet 1.0,regular
+26525047,created_by,YahooApplet 1.0,regular
+26525160,created_by,YahooApplet 1.0,regular
+26525375,location,nearmap,source
+26525430,created_by,YahooApplet 1.0,regular
+26620060,created_by,YahooApplet 1.0,regular
+26620145,created_by,YahooApplet 1.0,regular
+26620170,created_by,YahooApplet 1.0,regular
+26620197,created_by,YahooApplet 1.0,regular
+26620294,created_by,YahooApplet 1.0,regular
+26620319,created_by,YahooApplet 1.0,regular
+26620391,created_by,YahooApplet 1.0,regular
+26627302,created_by,JOSM,regular
+26705304,name,Thornleigh,regular
+26705304,operator,CityRail,regular
+26705304,public_transport,station,regular
+26705304,railway,station,regular
+26769477,created_by,JOSM,regular
+26773950,created_by,JOSM,regular
+26774050,created_by,JOSM,regular
+26791490,created_by,JOSM,regular
+26791515,created_by,JOSM,regular
+26791565,created_by,JOSM,regular
+26791592,created_by,JOSM,regular
+26792391,created_by,JOSM,regular
+26792441,created_by,JOSM,regular
+26792466,created_by,JOSM,regular
+26792491,created_by,JOSM,regular
+26792947,created_by,JOSM,regular
+26792974,created_by,JOSM,regular
+26792999,created_by,JOSM,regular
+26793024,created_by,JOSM,regular
+26793079,created_by,JOSM,regular
+26793278,created_by,JOSM,regular
+26793317,created_by,JOSM,regular
+26793883,created_by,JOSM,regular
+26793915,created_by,JOSM,regular
+26795867,created_by,JOSM,regular
+26795916,created_by,JOSM,regular
+26796218,created_by,JOSM,regular
+26796379,created_by,JOSM,regular
+26796442,created_by,JOSM,regular
+26796565,created_by,JOSM,regular
+26797549,highway,traffic_signals,regular
+26802792,highway,turning_circle,regular
+26803175,created_by,JOSM,regular
+26803871,created_by,JOSM,regular
+26804055,created_by,JOSM,regular
+26804087,created_by,JOSM,regular
+26804116,created_by,JOSM,regular
+26804169,created_by,JOSM,regular
+26804196,created_by,JOSM,regular
+26804222,created_by,JOSM,regular
+26804254,created_by,JOSM,regular
+26804286,created_by,JOSM,regular
+26804318,created_by,JOSM,regular
+26804348,created_by,JOSM,regular
+26804431,created_by,JOSM,regular
+26806202,created_by,JOSM,regular
+26806232,created_by,JOSM,regular
+26806263,created_by,JOSM,regular
+26806360,created_by,JOSM,regular
+26806385,created_by,JOSM,regular
+26806411,created_by,JOSM,regular
+26806462,created_by,JOSM,regular
+26806487,created_by,JOSM,regular
+26806514,created_by,JOSM,regular
+26806581,created_by,JOSM,regular
+26806611,created_by,JOSM,regular
+26806636,created_by,JOSM,regular
+26806661,created_by,JOSM,regular
+26806686,created_by,JOSM,regular
+26806711,created_by,JOSM,regular
+26806736,created_by,JOSM,regular
+26806786,created_by,JOSM,regular
+26806811,created_by,JOSM,regular
+26956873,created_by,YahooApplet 1.0,regular
+28195098,created_by,JOSM,regular
+28195153,created_by,JOSM,regular
+28195180,created_by,JOSM,regular
+28372994,source,survey,regular
+28534023,source,survey,regular
+28535191,source,survey,regular
+28782730,highway,turning_circle,regular
+28802244,crossing,traffic_signals,regular
+28802244,highway,traffic_signals,regular
+28802244,source,survey,regular
+28891623,source,survey,regular
+28892306,created_by,JOSM,regular
+29753210,created_by,JOSM,regular
+29753788,created_by,JOSM,regular
+29755129,highway,traffic_signals,regular
+29797340,highway,traffic_signals,regular
+29799770,noexit,yes,regular
+29898393,highway,turning_circle,regular
+29898393,source,nearmap,regular
+31484106,highway,turning_circle,regular
+31929167,barrier,gate,regular
+31929167,created_by,JOSM,regular
+31929535,created_by,JOSM,regular
+31929821,created_by,JOSM,regular
+31930167,created_by,JOSM,regular
+31930355,created_by,JOSM,regular
+32002821,highway,traffic_signals,regular
+32246441,created_by,JOSM,regular
+32561042,created_by,JOSM,regular
+32561183,created_by,JOSM,regular
+32561237,created_by,JOSM,regular
+32561293,created_by,JOSM,regular
+32561383,created_by,JOSM,regular
+32561641,created_by,JOSM,regular
+32847177,highway,turning_circle,regular
+32891236,created_by,JOSM,regular
+32928263,created_by,JOSM,regular
+33013293,highway,traffic_signals,regular
+33037413,crossing,traffic_signals,regular
+33037413,highway,traffic_signals,regular
+33109927,created_by,JOSM,regular
+33110231,created_by,JOSM,regular
+33116755,created_by,JOSM,regular
+33121181,created_by,JOSM,regular
+33165406,highway,traffic_signals,regular
+33166434,created_by,JOSM,regular
+33226078,highway,turning_circle,regular
+33364238,name,Careening Cove,regular
+33364238,natural,bay,regular
+33364238,old_name,Weye Weye,regular
+33364238,name,survey,source
+33451871,created_by,JOSM,regular
+33474601,highway,traffic_signals,regular
+34142882,created_by,JOSM,regular
+34176745,created_by,JOSM,regular
+34177724,created_by,JOSM,regular
+34212842,created_by,JOSM,regular
+34351356,created_by,JOSM,regular
+34351467,created_by,JOSM,regular
+34351660,created_by,JOSM,regular
+34351863,created_by,JOSM,regular
+34351972,created_by,JOSM,regular
+34352278,created_by,JOSM,regular
+34488270,created_by,JOSM,regular
+34488320,created_by,JOSM,regular
+34496524,created_by,JOSM,regular
+34510068,created_by,JOSM,regular
+34510107,created_by,JOSM,regular
+34512367,created_by,JOSM,regular
+34512408,created_by,JOSM,regular
+34631831,highway,traffic_signals,regular
+34632371,created_by,JOSM,regular
+35286544,created_by,JOSM,regular
+36237868,created_by,JOSM,regular
+36237928,created_by,JOSM,regular
+36238538,created_by,JOSM,regular
+36240584,created_by,JOSM,regular
+36399183,highway,traffic_signals,regular
+36608121,created_by,JOSM,regular
+36711140,created_by,JOSM,regular
+36711165,created_by,JOSM,regular
+36717714,highway,turning_circle,regular
+38688925,created_by,JOSM,regular
+38720524,created_by,JOSM,regular
+38855522,highway,traffic_signals,regular
+38856101,amenity,parking,regular
+38856101,created_by,JOSM,regular
+39550859,created_by,JOSM,regular
+39567464,created_by,JOSM,regular
+39590691,created_by,JOSM,regular
+39609496,created_by,JOSM,regular
+39656593,created_by,JOSM,regular
+40516835,created_by,JOSM,regular
+41848673,highway,traffic_signals,regular
+42987864,highway,traffic_signals,regular
+44282557,created_by,JOSM,regular
+46525279,source,GPS survey,regular
+47355871,created_by,JOSM,regular
+47407161,highway,turning_circle,regular
+47504489,created_by,JOSM,regular
+47839847,created_by,JOSM,regular
+48727290,created_by,JOSM,regular
+48931515,created_by,JOSM,regular
+49622590,highway,turning_circle,regular
+50498859,created_by,JOSM,regular
+52485195,created_by,JOSM,regular
+54893883,created_by,JOSM,regular
+56131137,created_by,JOSM,regular
+57101400,created_by,JOSM,regular
+60034232,highway,traffic_signals,regular
+60087504,highway,traffic_signals,regular
+60087504,source,GPS survey,regular
+60171101,highway,turning_circle,regular
+60174537,source,yahoo_imagery,regular
+60177867,created_by,JOSM,regular
+60284416,highway,traffic_signals,regular
+60287363,highway,traffic_signals,regular
+60563021,created_by,JOSM,regular
+60983121,highway,traffic_signals,regular
+62381707,amenity,parking,regular
+62381707,created_by,Potlatch 0.4a,regular
+62381707,name,Botany Street Carpark,regular
+63073179,created_by,JOSM,regular
+66486125,created_by,JOSM,regular
+66492778,created_by,JOSM,regular
+66513837,created_by,JOSM,regular
+66514265,created_by,JOSM,regular
+68228397,source,GPS survey,regular
+68522020,created_by,JOSM,regular
+69787808,highway,turning_circle,regular
+72335193,created_by,JOSM,regular
+72441265,highway,crossing,regular
+75148430,created_by,JOSM,regular
+75167504,created_by,JOSM,regular
+75169289,created_by,JOSM,regular
+79702087,created_by,JOSM,regular
+81018529,created_by,JOSM,regular
+81187390,created_by,JOSM,regular
+81330490,is_in,"Sydney, NSW, Australia",regular
+81330490,country,Australia,is_in
+81330490,country_code,AU,is_in
+81330490,state,New South Wales,is_in
+81330490,state_code,NSW,is_in
+81330490,name,Campbelltown,regular
+81330490,place,town,regular
+82030546,created_by,JOSM,regular
+82447283,created_by,JOSM,regular
+82552020,created_by,JOSM,regular
+82552020,name,Long Bay,regular
+82552020,natural,bay,regular
+82552020,source,historical,regular
+83018285,created_by,JOSM,regular
+83352612,created_by,JOSM,regular
+83989411,created_by,JOSM,regular
+84318386,created_by,JOSM,regular
+84426998,crossing,traffic_signals,regular
+84426998,highway,crossing,regular
+88852085,created_by,JOSM,regular
+88923726,highway,traffic_signals,regular
+88983327,created_by,JOSM,regular
+89004335,created_by,JOSM,regular
+89004734,created_by,JOSM,regular
+90851819,created_by,JOSM,regular
+90892433,created_by,JOSM,regular
+91206478,created_by,JOSM,regular
+93569613,created_by,JOSM,regular
+93570000,created_by,JOSM,regular
+93570505,created_by,JOSM,regular
+93571229,created_by,JOSM,regular
+93571902,created_by,JOSM,regular
+93572380,created_by,JOSM,regular
+96327081,created_by,JOSM,regular
+97549053,created_by,JOSM,regular
+97549554,created_by,JOSM,regular
+99955604,created_by,JOSM,regular
+99955837,created_by,JOSM,regular
+103822221,highway,traffic_signals,regular
+103840459,created_by,JOSM,regular
+105172095,highway,turning_circle,regular
+105172095,source,yahoo_imagery,regular
+114310664,highway,traffic_signals,regular
+117056262,created_by,JOSM,regular
+117056262,name,Cambridge Gardens,regular
+117056262,place,suburb,regular
+117056262,nswgnb,SUBURB,place
+117056262,nswgnb,10711,ref
+117056262,source,nswgnb,regular
+117056763,name,Mount Vernon,regular
+117056763,place,suburb,regular
+117056763,nswgnb,SUBURB,place
+117056763,nswgnb,72565,ref
+117056763,source,nswgnb,regular
+117062678,created_by,JOSM,regular
+117062678,name,Glenfield,regular
+117062678,place,suburb,regular
+117062678,nswgnb,SUBURB,place
+117062678,nswgnb,20629,ref
+117062678,source,nswgnb,regular
+117076289,is_in,Baulkham Hills,regular
+117076289,name,Crestwood,regular
+117076289,place,locality,regular
+117076289,nswgnb,RURAL PLACE,place
+117076289,nswgnb,78884,ref
+117076289,source,nswgnb,regular
+117076289,wikipedia,"en:Crestwood, New South Wales",regular
+117078644,created_by,Potlatch 0.5d,regular
+117078644,name,North Narrabeen,regular
+117078644,place,suburb,regular
+117078644,nswgnb,SUBURB,place
+117078644,nswgnb,42888,ref
+117078644,source,nswgnb,regular
+117083759,created_by,Potlatch 0.5d,regular
+117083759,name,Long Reef,regular
+117083759,place,suburb,regular
+117083759,nswgnb,URBAN PLACE,place
+117083759,nswgnb,33700,ref
+117083759,source,nswgnb,regular
+117098213,created_by,JOSM,regular
+117098213,name,St Ives Chase,regular
+117098213,place,suburb,regular
+117098213,nswgnb,SUBURB,place
+117098213,nswgnb,50895,ref
+117098213,source,nswgnb,regular
+117109726,created_by,JOSM,regular
+117109726,name,Huntleys Point,regular
+117109726,place,suburb,regular
+117109726,nswgnb,SUBURB,place
+117109726,nswgnb,24518,ref
+117109726,source,nswgnb,regular
+117124112,is_in,"New South Wales,Australia",regular
+117124112,name,Milsons Point,regular
+117124112,place,suburb,regular
+117124112,nswgnb,SUBURB,place
+117124112,nswgnb,38119,ref
+117124112,source,nswgnb,regular
+117132803,name,Sylvania Waters,regular
+117132803,place,suburb,regular
+117132803,nswgnb,SUBURB,place
+117132803,nswgnb,56533,ref
+117132803,source,nswgnb,regular
+117138548,created_by,JOSM,regular
+117138548,name,Yagoona,regular
+117138548,place,suburb,regular
+117138548,nswgnb,SUBURB,place
+117138548,nswgnb,66795,ref
+117138548,source,nswgnb,regular
+117143281,created_by,JOSM,regular
+117143281,name,Hassall Grove,regular
+117143281,place,suburb,regular
+117143281,nswgnb,SUBURB,place
+117143281,nswgnb,71496,ref
+117143281,source,nswgnb,regular
+117143673,name,The Ponds,regular
+117143673,place,suburb,regular
+117143673,nswgnb,SUBURB,place
+117143673,nswgnb,82752,ref
+117143673,source,nswgnb,regular
+117151896,created_by,Potlatch 0.9c,regular
+117151896,is_in,"Sydney, New South Wales, Australia",regular
+117151896,name,Wareemba,regular
+117151896,place,suburb,regular
+117151896,nswgnb,SUBURB,place
+117151896,nswgnb,74907,ref
+117151896,source,nswgnb,regular
+117157865,created_by,JOSM,regular
+117157865,name,Hurlstone Park,regular
+117157865,place,suburb,regular
+117157865,nswgnb,SUBURB,place
+117157865,nswgnb,24552,ref
+117157865,source,nswgnb,regular
+117162483,name,Beverly Hills,regular
+117162483,place,suburb,regular
+117162483,nswgnb,SUBURB,place
+117162483,nswgnb,4523,ref
+117162483,source,nswgnb,regular
+117167760,created_by,JOSM,regular
+117167760,name,Green Valley,regular
+117167760,place,suburb,regular
+117167760,nswgnb,SUBURB,place
+117167760,nswgnb,21932,ref
+117167760,source,nswgnb,regular
+117178218,created_by,Potlatch 0.5d,regular
+117178218,name,Harris Park,regular
+117178218,place,suburb,regular
+117178218,nswgnb,SUBURB,place
+117178218,nswgnb,23135,ref
+117178218,source,nswgnb,regular
+117178735,name,Westmead,regular
+117178735,place,suburb,regular
+117178735,nswgnb,SUBURB,place
+117178735,nswgnb,64258,ref
+117178735,source,nswgnb,regular
+117189037,name,Homebush West,regular
+117189037,place,suburb,regular
+117189037,nswgnb,SUBURB,place
+117189037,nswgnb,74029,ref
+117189037,source,nswgnb,regular
+117205706,created_by,JOSM,regular
+117205706,name,Bellevue Hill,regular
+117205706,place,suburb,regular
+117205706,nswgnb,SUBURB,place
+117205706,nswgnb,3790,ref
+117205706,source,nswgnb,regular
+124733991,highway,turning_circle,regular
+124811277,highway,traffic_signals,regular
+124838134,amenity,parking,regular
+124838134,created_by,Potlatch 0.7a,regular
+127556537,highway,turning_circle,regular
+127556537,source,nearmap,regular
+129245332,highway,turning_circle,regular
+129259192,highway,traffic_signals,regular
+137352599,highway,turning_circle,regular
+139444016,highway,turning_circle,regular
+139607102,highway,traffic_signals,regular
+141025568,highway,traffic_signals,regular
+142832757,highway,turning_circle,regular
+142832757,source,nearmap,regular
+143485639,highway,turning_circle,regular
+143634176,source,GPS survey,regular
+143638298,source,GPS survey,regular
+145815894,amenity,fast_food,regular
+145815894,cuisine,burger,regular
+145815894,drive_through,yes,regular
+145815894,name,McDonald's,regular
+148869796,source,GPS survey,regular
+150916637,highway,turning_circle,regular
+150928065,highway,turning_circle,regular
+150928065,source,nearmap,regular
+151389431,highway,turning_circle,regular
+152288588,created_by,JOSM,regular
+152293196,created_by,JOSM,regular
+152308539,created_by,JOSM,regular
+152313036,created_by,JOSM,regular
+152315103,created_by,JOSM,regular
+152391210,created_by,JOSM,regular
+152395688,created_by,JOSM,regular
+152400454,created_by,JOSM,regular
+152407804,created_by,JOSM,regular
+152410393,created_by,JOSM,regular
+152711500,highway,traffic_signals,regular
+154109840,created_by,JOSM,regular
+154111084,created_by,JOSM,regular
+154112331,created_by,JOSM,regular
+154113751,created_by,JOSM,regular
+154117886,created_by,JOSM,regular
+154119918,created_by,JOSM,regular
+154121516,created_by,JOSM,regular
+154125317,created_by,JOSM,regular
+154126929,created_by,JOSM,regular
+154153304,created_by,JOSM,regular
+154161656,created_by,JOSM,regular
+154176679,created_by,JOSM,regular
+154177629,created_by,JOSM,regular
+154178774,created_by,JOSM,regular
+154180397,created_by,JOSM,regular
+154182477,created_by,JOSM,regular
+154184769,created_by,JOSM,regular
+154190043,created_by,JOSM,regular
+156348969,highway,turning_circle,regular
+159346509,created_by,JOSM,regular
+159353163,created_by,JOSM,regular
+159354207,created_by,JOSM,regular
+159357963,created_by,JOSM,regular
+159359429,created_by,JOSM,regular
+159360987,created_by,JOSM,regular
+159362335,created_by,JOSM,regular
+159363397,created_by,JOSM,regular
+159364819,created_by,JOSM,regular
+161504855,created_by,JOSM,regular
+161506742,created_by,JOSM,regular
+161514095,created_by,JOSM,regular
+161517620,created_by,JOSM,regular
+161525106,created_by,JOSM,regular
+161526085,created_by,JOSM,regular
+161526822,created_by,JOSM,regular
+161531225,created_by,JOSM,regular
+161532088,created_by,JOSM,regular
+161533227,created_by,JOSM,regular
+161534894,highway,turning_circle,regular
+161538249,created_by,JOSM,regular
+161542268,highway,turning_circle,regular
+161588433,highway,turning_circle,regular
+163547848,highway,turning_circle,regular
+164029843,created_by,JOSM,regular
+164072793,created_by,JOSM,regular
+165738674,created_by,JOSM,regular
+165738705,created_by,JOSM,regular
+165738733,created_by,JOSM,regular
+165738791,created_by,JOSM,regular
+165738905,created_by,JOSM,regular
+165738969,created_by,JOSM,regular
+165739247,created_by,JOSM,regular
+165740244,created_by,JOSM,regular
+165740733,created_by,JOSM,regular
+165742452,created_by,JOSM,regular
+165742898,created_by,JOSM,regular
+165743448,created_by,JOSM,regular
+165743948,created_by,JOSM,regular
+165744337,created_by,JOSM,regular
+165745100,created_by,JOSM,regular
+167016094,created_by,JOSM,regular
+167017032,created_by,JOSM,regular
+167018856,created_by,JOSM,regular
+167021330,created_by,JOSM,regular
+167022393,created_by,JOSM,regular
+167024762,created_by,JOSM,regular
+167026465,created_by,JOSM,regular
+167033417,created_by,JOSM,regular
+167034405,created_by,JOSM,regular
+167035778,created_by,JOSM,regular
+167036602,created_by,JOSM,regular
+167037442,created_by,JOSM,regular
+167038535,created_by,JOSM,regular
+167039340,created_by,JOSM,regular
+167040272,created_by,JOSM,regular
+167041443,created_by,JOSM,regular
+167042941,created_by,JOSM,regular
+167044897,created_by,JOSM,regular
+167048917,created_by,JOSM,regular
+167051342,created_by,JOSM,regular
+167052464,created_by,JOSM,regular
+167058348,created_by,JOSM,regular
+167059426,created_by,JOSM,regular
+167060296,created_by,JOSM,regular
+167061204,created_by,JOSM,regular
+167062394,created_by,JOSM,regular
+167063493,created_by,JOSM,regular
+167064541,created_by,JOSM,regular
+167065880,created_by,JOSM,regular
+167066968,created_by,JOSM,regular
+167068049,created_by,JOSM,regular
+167069285,created_by,JOSM,regular
+167071396,created_by,JOSM,regular
+167072272,created_by,JOSM,regular
+167073097,created_by,JOSM,regular
+167073879,created_by,JOSM,regular
+167075791,created_by,JOSM,regular
+167076734,created_by,JOSM,regular
+167078553,created_by,JOSM,regular
+167080560,created_by,JOSM,regular
+167081683,created_by,JOSM,regular
+167083720,created_by,JOSM,regular
+167084693,created_by,JOSM,regular
+167085666,created_by,JOSM,regular
+173201889,created_by,Potlatch 0.5d,regular
+173201889,highway,bus_stop,regular
+173201889,loc_ref,501,regular
+173651438,amenity,parking,regular
+173651438,created_by,Potlatch 0.5d,regular
+174278497,amenity,pub,regular
+174278497,created_by,JOSM,regular
+174278497,name,London,regular
+175672642,created_by,JOSM,regular
+175673302,created_by,JOSM,regular
+175674045,created_by,JOSM,regular
+175674836,created_by,JOSM,regular
+175675437,created_by,JOSM,regular
+175675974,created_by,JOSM,regular
+175676579,created_by,JOSM,regular
+175677173,created_by,JOSM,regular
+175677732,created_by,JOSM,regular
+175678060,created_by,JOSM,regular
+175679218,created_by,JOSM,regular
+175681226,created_by,JOSM,regular
+175681984,created_by,JOSM,regular
+175682991,created_by,JOSM,regular
+175683778,created_by,JOSM,regular
+175684467,created_by,JOSM,regular
+175685888,created_by,JOSM,regular
+175687486,created_by,JOSM,regular
+175688200,created_by,JOSM,regular
+175688948,created_by,JOSM,regular
+175700760,created_by,JOSM,regular
+175702358,created_by,JOSM,regular
+175703204,created_by,JOSM,regular
+175704119,created_by,JOSM,regular
+175705052,created_by,JOSM,regular
+176265472,highway,turning_circle,regular
+176666264,created_by,JOSM,regular
+176667611,created_by,JOSM,regular
+181247582,traffic_calming,hump,regular
+187597519,amenity,pub,regular
+187597519,name,Royal Exchange Hotel,regular
+192339369,created_by,JOSM,regular
+193560138,highway,traffic_signals,regular
+194672497,highway,turning_circle,regular
+197315426,created_by,JOSM,regular
+198958204,highway,turning_circle,regular
+200634608,highway,traffic_signals,regular
+201970854,amenity,toilets,regular
+201970854,created_by,Potlatch 0.6,regular
+202952029,created_by,JOSM,regular
+204527844,highway,turning_circle,regular
+208259946,highway,turning_circle,regular
+208267414,highway,turning_circle,regular
+212942638,highway,turning_circle,regular
+212964169,highway,turning_circle,regular
+218084927,created_by,JOSM,regular
+218123390,created_by,JOSM,regular
+220400170,amenity,fuel,regular
+220400170,name,Mobil,regular
+226222431,amenity,fuel,regular
+226222431,name,Caltex Woolworths,regular
+231348099,created_by,JOSM,regular
+238058215,created_by,JOSM,regular
+239241554,highway,turning_circle,regular
+239241554,source,nearmap,regular
+239242619,created_by,JOSM,regular
+239326224,created_by,JOSM,regular
+239326913,created_by,JOSM,regular
+239327570,created_by,JOSM,regular
+240527912,created_by,JOSM,regular
+240528105,created_by,JOSM,regular
+240528268,created_by,JOSM,regular
+240571886,created_by,JOSM,regular
+241875458,created_by,JOSM,regular
+241875516,created_by,JOSM,regular
+241875727,created_by,JOSM,regular
+241878333,created_by,JOSM,regular
+242084579,highway,turning_circle,regular
+242168828,highway,turning_circle,regular
+242537818,created_by,JOSM,regular
+242537872,created_by,JOSM,regular
+242539872,created_by,JOSM,regular
+242956720,highway,traffic_signals,regular
+243180384,created_by,JOSM,regular
+243180421,created_by,JOSM,regular
+243180498,created_by,JOSM,regular
+243180523,created_by,JOSM,regular
+243180583,created_by,JOSM,regular
+243180661,created_by,JOSM,regular
+243187200,created_by,JOSM,regular
+243453772,created_by,JOSM,regular
+243458176,created_by,JOSM,regular
+243458217,created_by,JOSM,regular
+243458246,created_by,JOSM,regular
+243458277,created_by,JOSM,regular
+243458304,created_by,JOSM,regular
+243458331,created_by,JOSM,regular
+243458359,created_by,JOSM,regular
+243458393,created_by,JOSM,regular
+243460773,created_by,JOSM,regular
+243463772,created_by,JOSM,regular
+243463827,created_by,JOSM,regular
+243473173,highway,turning_circle,regular
+243698145,created_by,JOSM,regular
+243826183,created_by,JOSM,regular
+243826294,created_by,JOSM,regular
+243826406,created_by,JOSM,regular
+243826520,created_by,JOSM,regular
+243826699,created_by,JOSM,regular
+243826922,created_by,JOSM,regular
+243827023,created_by,JOSM,regular
+244128703,created_by,JOSM,regular
+244128741,created_by,JOSM,regular
+244931255,created_by,JOSM,regular
+244931528,created_by,JOSM,regular
+244932179,created_by,JOSM,regular
+244946893,created_by,JOSM,regular
+245256935,barrier,gate,regular
+245256935,foot,yes,regular
+245843810,highway,turning_circle,regular
+245844860,highway,turning_circle,regular
+246295250,created_by,JOSM,regular
+246295782,created_by,JOSM,regular
+246299371,created_by,JOSM,regular
+246302292,created_by,JOSM,regular
+246321858,created_by,JOSM,regular
+246771964,highway,turning_circle,regular
+246789411,amenity,parking,regular
+246789592,created_by,JOSM,regular
+247181719,created_by,JOSM,regular
+247297811,amenity,parking,regular
+247297811,created_by,Potlatch 0.7a,regular
+247298179,amenity,parking,regular
+247298179,created_by,Potlatch 0.7a,regular
+247298940,amenity,parking,regular
+247298940,created_by,Potlatch 0.7a,regular
+247328380,highway,turning_circle,regular
+247473917,highway,turning_circle,regular
+247696482,created_by,JOSM,regular
+247878785,created_by,JOSM,regular
+247878811,created_by,JOSM,regular
+247878907,created_by,JOSM,regular
+247879053,created_by,JOSM,regular
+247879165,created_by,JOSM,regular
+247879224,created_by,JOSM,regular
+247879288,created_by,JOSM,regular
+248417290,created_by,JOSM,regular
+248512317,created_by,JOSM,regular
+248741848,highway,turning_circle,regular
+248743793,highway,turning_circle,regular
+248746621,highway,turning_circle,regular
+248746621,source,nearmap,regular
+248751354,highway,turning_circle,regular
+248843901,created_by,JOSM,regular
+249035398,created_by,JOSM,regular
+249045298,name,Kirrawee,regular
+249045298,place,suburb,regular
+249072872,created_by,JOSM,regular
+249087547,created_by,JOSM,regular
+249361542,highway,crossing,regular
+249375502,created_by,JOSM,regular
+249663017,amenity,parking,regular
+249663017,created_by,Potlatch 0.7b,regular
+249663168,highway,turning_circle,regular
+249764539,highway,turning_circle,regular
+249764659,highway,turning_circle,regular
+249765268,highway,turning_circle,regular
+250276824,highway,turning_circle,regular
+250932062,created_by,Merkaartor 0.13,regular
+251088800,amenity,telephone,regular
+251088800,operator,Telstra,regular
+251088800,coins,yes,payment
+251088800,telephone_cards,yes,payment
+251132370,created_by,JOSM,regular
+251132457,created_by,JOSM,regular
+251263896,created_by,JOSM,regular
+251263940,created_by,JOSM,regular
+251264018,created_by,JOSM,regular
+251264247,created_by,JOSM,regular
+251267917,created_by,JOSM,regular
+251268530,created_by,JOSM,regular
+251681793,highway,turning_circle,regular
+251681793,source,nearmap,regular
+251838601,highway,turning_circle,regular
+251839109,highway,turning_circle,regular
+252055375,created_by,JOSM,regular
+252158519,amenity,parking,regular
+252354555,created_by,JOSM,regular
+252354582,created_by,JOSM,regular
+252354629,created_by,JOSM,regular
+252354662,created_by,JOSM,regular
+252354773,created_by,JOSM,regular
+252355087,created_by,JOSM,regular
+252355212,created_by,JOSM,regular
+252355240,created_by,JOSM,regular
+252355269,created_by,JOSM,regular
+252355337,created_by,JOSM,regular
+252355375,created_by,JOSM,regular
+252355424,created_by,JOSM,regular
+252532390,highway,turning_circle,regular
+252532390,source,nearmap,regular
+252586734,highway,turning_circle,regular
+252586734,source,Bing,regular
+252590815,created_by,JOSM,regular
+252699334,highway,turning_circle,regular
+252699334,source,nearmap,regular
+252699982,highway,turning_circle,regular
+252705374,highway,turning_circle,regular
+252772401,highway,turning_circle,regular
+252772401,source,nearmap,regular
+252941797,highway,turning_circle,regular
+253086805,highway,traffic_signals,regular
+253101435,highway,turning_circle,regular
+253101435,source,Yahoo,regular
+253433645,created_by,JOSM,regular
+253491269,created_by,JOSM,regular
+253731826,created_by,JOSM,regular
+253744640,created_by,JOSM,regular
+253744822,created_by,JOSM,regular
+253744943,created_by,JOSM,regular
+253747286,created_by,JOSM,regular
+253747324,created_by,JOSM,regular
+253747357,created_by,JOSM,regular
+253747403,created_by,JOSM,regular
+253971722,amenity,parking,regular
+253971722,created_by,Potlatch 0.8,regular
+253996490,highway,turning_circle,regular
+253996490,source,bing,regular
+254018644,highway,turning_circle,regular
+254019354,highway,turning_circle,regular
+254242405,highway,turning_circle,regular
+254242675,highway,turning_circle,regular
+254252889,highway,turning_circle,regular
+254253300,highway,turning_circle,regular
+254302449,highway,turning_circle,regular
+254817517,source,Yahoo Imagery,regular
+254817664,created_by,JOSM,regular
+254817664,source,survey,regular
+254844482,created_by,JOSM,regular
+254848226,source,survey,regular
+254866759,source,survey,regular
+254872379,created_by,JOSM,regular
+254872379,source,survey,regular
+255375253,highway,turning_circle,regular
+255468680,highway,turning_circle,regular
+255469077,highway,turning_circle,regular
+255509180,highway,turning_circle,regular
+255631110,created_by,Potlatch 0.8a,regular
+255631110,name,Dutch Garden,regular
+255631110,tourism,attraction,regular
+255637650,power,tower,regular
+255637650,source,nearmap,regular
+255690551,created_by,JOSM,regular
+255783435,power,tower,regular
+255783435,source,nearmap,regular
+255988712,source,survey,regular
+255989152,created_by,JOSM,regular
+255989152,source,survey,regular
+255989317,created_by,JOSM,regular
+255989317,source,survey,regular
+255989477,source,survey,regular
+256221514,created_by,JOSM,regular
+256221514,source,survey,regular
+256221618,source,survey,regular
+256221767,created_by,JOSM,regular
+256221767,source,survey,regular
+256221964,created_by,JOSM,regular
+256221964,source,survey,regular
+256404444,created_by,JOSM,regular
+256552917,source,survey,regular
+257161428,highway,turning_circle,regular
+257315550,highway,bus_stop,regular
+257316310,highway,turning_circle,regular
+257316310,source,survey,regular
+257317032,created_by,JOSM,regular
+257317480,created_by,JOSM,regular
+257893214,created_by,JOSM,regular
+258771230,created_by,JOSM,regular
+258771262,created_by,JOSM,regular
+258808842,created_by,JOSM,regular
+258987522,created_by,JOSM,regular
+260133582,created_by,JOSM,regular
+260133654,created_by,JOSM,regular
+260133711,created_by,JOSM,regular
+260133903,created_by,JOSM,regular
+260134128,created_by,JOSM,regular
+260134188,created_by,JOSM,regular
+260134215,created_by,JOSM,regular
+260140470,created_by,JOSM,regular
+260140540,created_by,JOSM,regular
+260140601,created_by,JOSM,regular
+260140686,created_by,JOSM,regular
+261462926,created_by,JOSM,regular
+261480780,created_by,JOSM,regular
+261481001,created_by,JOSM,regular
+261681070,created_by,JOSM,regular
+261689200,created_by,JOSM,regular
+262072649,created_by,JOSM,regular
+262075328,created_by,JOSM,regular
+262075453,created_by,JOSM,regular
+262075492,created_by,JOSM,regular
+262075549,created_by,JOSM,regular
+262075593,created_by,JOSM,regular
+262075869,created_by,JOSM,regular
+263543181,highway,turning_circle,regular
+263543181,source,nearmap,regular
+263894169,highway,turning_circle,regular
+263894169,source,nearmap,regular
+263897412,highway,turning_circle,regular
+263897412,source,nearmap,regular
+264661560,amenity,kindergarten,regular
+264661560,created_by,Potlatch 0.10f,regular
+265084326,amenity,telephone,regular
+265508167,highway,turning_circle,regular
+265853270,created_by,Merkaartor 0.10,regular
+265866720,created_by,Merkaartor 0.10,regular
+265869015,created_by,Merkaartor 0.10,regular
+267609723,information,board,regular
+267609723,tourism,information,regular
+267687921,created_by,JOSM,regular
+268173298,highway,turning_circle,regular
+268964261,created_by,JOSM,regular
+268964292,created_by,JOSM,regular
+268964317,created_by,JOSM,regular
+271641606,created_by,JOSM,regular
+271864411,created_by,JOSM,regular
+271868720,created_by,JOSM,regular
+272189804,highway,traffic_signals,regular
+272853960,highway,traffic_signals,regular
+272855200,highway,traffic_signals,regular
+273093128,power,tower,regular
+273093128,source,nearmap,regular
+274527329,amenity,fuel,regular
+274527329,name,Budget Petrol,regular
+276641048,barrier,bollard,regular
+276641048,bicycle,yes,regular
+276641048,foot,yes,regular
+277187008,highway,turning_circle,regular
+277369744,amenity,bicycle_parking,regular
+278889771,highway,turning_circle,regular
+278889771,source,nearmap,regular
+279227896,highway,turning_circle,regular
+279227896,source,nearmap,regular
+286632179,power,station,regular
+287133499,highway,turning_circle,regular
+287135580,highway,turning_circle,regular
+287747530,barrier,gate,regular
+287747530,bicycle,yes,regular
+287747530,foot,yes,regular
+288304891,highway,crossing,regular
+288310395,highway,turning_circle,regular
+288323545,highway,turning_circle,regular
+288331195,highway,turning_circle,regular
+288336356,highway,turning_circle,regular
+288477311,highway,turning_circle,regular
+288488214,highway,turning_circle,regular
+288494272,highway,turning_circle,regular
+288496568,highway,turning_circle,regular
+288501739,highway,turning_circle,regular
+288507882,highway,turning_circle,regular
+288574293,highway,turning_circle,regular
+288574293,source,Bing,regular
+288584677,highway,turning_circle,regular
+288584677,source,nearmap,regular
+288753764,highway,turning_circle,regular
+288754722,highway,turning_circle,regular
+288757584,highway,turning_circle,regular
+288759469,highway,turning_circle,regular
+288761362,highway,turning_circle,regular
+288765487,highway,turning_circle,regular
+288771211,highway,turning_circle,regular
+288772319,highway,turning_circle,regular
+288772990,highway,turning_circle,regular
+288786360,highway,turning_circle,regular
+290269413,highway,turning_circle,regular
+290272474,highway,turning_circle,regular
+290284550,highway,turning_circle,regular
+290285633,highway,turning_circle,regular
+290310235,amenity,ferry_terminal,regular
+290310235,name,Bundeena,regular
+290377005,created_by,Potlatch 0.10b,regular
+290377005,name,Kiddle Top,regular
+290377005,natural,peak,regular
+291031293,highway,turning_circle,regular
+291033437,highway,turning_circle,regular
+291035794,highway,turning_circle,regular
+291151867,barrier,gate,regular
+291439512,highway,turning_circle,regular
+291442554,highway,turning_circle,regular
+291446659,highway,turning_circle,regular
+291685181,barrier,gate,regular
+291686561,amenity,parking,regular
+291686561,created_by,Potlatch 0.10b,regular
+293327337,barrier,gate,regular
+293460502,highway,turning_circle,regular
+294247134,highway,turning_circle,regular
+294266801,highway,turning_circle,regular
+294268081,highway,crossing,regular
+295151618,highway,turning_circle,regular
+299253033,created_by,Potlatch 0.10b,regular
+299253033,power,tower,regular
+299626131,created_by,JOSM,regular
+300545102,highway,turning_circle,regular
+301530436,created_by,JOSM,regular
+301551286,created_by,JOSM,regular
+303928647,created_by,JOSM,regular
+303931992,amenity,toilets,regular
+303931992,created_by,JOSM,regular
+303945415,created_by,JOSM,regular
+303945440,created_by,JOSM,regular
+307625669,created_by,JOSM,regular
+311399297,highway,turning_circle,regular
+311411262,highway,turning_circle,regular
+311414023,highway,turning_circle,regular
+311424173,highway,turning_circle,regular
+311431011,highway,turning_circle,regular
+311432481,highway,turning_circle,regular
+311437961,highway,turning_circle,regular
+311444844,highway,turning_circle,regular
+311894696,highway,turning_circle,regular
+311901889,highway,turning_circle,regular
+311907070,highway,turning_circle,regular
+313294803,highway,turning_circle,regular
+313294971,highway,turning_circle,regular
+313692883,tourism,viewpoint,regular
+313800021,highway,turning_circle,regular
+313800021,source,bing,regular
+313802470,highway,turning_circle,regular
+313802470,source,nearmap,regular
+315689225,highway,turning_circle,regular
+317503770,noexit,yes,regular
+320382073,highway,turning_circle,regular
+323314803,amenity,parking,regular
+331132877,amenity,fast_food,regular
+331132877,cuisine,burger,regular
+331132877,name,McDonald's,regular
+331132877,source,survey,regular
+332018847,highway,traffic_signals,regular
+332039260,highway,traffic_signals,regular
+332147191,highway,traffic_signals,regular
+332391922,created_by,JOSM,regular
+332392472,created_by,JOSM,regular
+332392642,created_by,JOSM,regular
+334107313,leisure,garden,regular
+334107313,name,Jim Lynch Memorial Garden,regular
+339102582,highway,traffic_signals,regular
+339193725,highway,turning_circle,regular
+339267704,highway,crossing,regular
+345013766,amenity,telephone,regular
+345013766,source,local_knowledge,regular
+345536378,amenity,fire_station,regular
+345536378,name,Dee Why Fire Station,regular
+345536378,phone,+61-2-9982-3229,regular
+345536378,source,fire.nsw.gov.au,regular
+345536535,created_by,JOSM,regular
+345536685,created_by,JOSM,regular
+346082608,amenity,place_of_worship,regular
+346082608,religion,jewish,regular
+346082608,source,local_knowledge,regular
+355847178,highway,bus_stop,regular
+355847178,name,Monte,regular
+355847178,shelter,yes,regular
+355847178,source,survey,regular
+356186928,highway,bus_stop,regular
+356186928,name,Marist,regular
+356186928,shelter,yes,regular
+356186928,source,survey,regular
+358125452,highway,turning_circle,regular
+358125452,source,nearmap,regular
+358133316,highway,turning_circle,regular
+358133316,source,nearmap,regular
+358366324,highway,turning_circle,regular
+358366324,source,nearmap,regular
+358377875,highway,turning_circle,regular
+358377875,source,nearmap,regular
+358379213,highway,turning_circle,regular
+358379213,source,nearmap,regular
+359362341,amenity,toilets,regular
+359767002,highway,turning_circle,regular
+359773341,highway,turning_circle,regular
+359773623,highway,turning_circle,regular
+359774850,highway,turning_circle,regular
+359776230,highway,turning_circle,regular
+359776230,source,Yahoo,regular
+359776315,highway,turning_circle,regular
+359776315,source,nearmap,regular
+359776934,highway,turning_circle,regular
+359776934,source,nearmap,regular
+360527213,highway,turning_circle,regular
+360581892,amenity,bench,regular
+360581892,source,survey,regular
+361039768,highway,bus_stop,regular
+361300348,highway,turning_circle,regular
+361300348,source,nearmap,regular
+361310893,highway,turning_circle,regular
+361315022,highway,turning_circle,regular
+363885555,highway,turning_circle,regular
+365210371,amenity,toilets,regular
+365753766,amenity,parking,regular
+365753766,created_by,Potlatch 0.10f,regular
+368405418,amenity,toilets,regular
+368405418,source,survey,regular
+368405418,wheelchair,yes,regular
+373857191,highway,crossing,regular
+373969619,amenity,toilets,regular
+386582002,amenity,toilets,regular
+386582002,fee,no,regular
+386582002,source,survey,regular
+387222131,bench,yes,regular
+387222131,highway,bus_stop,regular
+387222131,source,survey,regular
+392527426,barrier,gate,regular
+392527426,bicycle,yes,regular
+392527426,foot,yes,regular
+392527426,source,survey,regular
+395260441,highway,turning_circle,regular
+402305931,amenity,bench,regular
+402305931,backrest,no,regular
+402305931,source,survey,regular
+410129282,highway,bus_stop,regular
+413364003,highway,crossing,regular
+415551742,highway,turning_circle,regular
+416480038,traffic_calming,hump,regular
+416797489,highway,turning_circle,regular
+416797539,barrier,gate,regular
+416797539,foot,yes,regular
+416797564,highway,turning_circle,regular
+419774717,amenity,drinking_water,regular
+419774814,traffic_calming,hump,regular
+420078058,highway,bus_stop,regular
+420078058,source,survey,regular
+425748509,housenumber,330,addr
+425748509,street,Anzac Parade,addr
+426679461,is_in,"Australia, NSW, New South Wales, Sydney",regular
+426679461,name,Silverwater,regular
+426679461,place,suburb,regular
+428296133,highway,turning_circle,regular
+428468942,name,The Cheesecake Shop,regular
+428468942,shop,bakery,regular
+428760332,amenity,emergency_phone,regular
+428760332,emergency,phone,regular
+428760332,odbl,clean,regular
+428760332,source,survey,regular
+429684298,highway,turning_circle,regular
+432792374,crossing,traffic_signals,regular
+432792374,highway,crossing,regular
+434287455,amenity,emergency_phone,regular
+434287455,emergency,phone,regular
+434287455,odbl,clean,regular
+434287455,source,survey,regular
+434289376,amenity,emergency_phone,regular
+434289376,emergency,phone,regular
+434289376,odbl,clean,regular
+434289376,source,survey,regular
+436161686,amenity,post_box,regular
+436161686,collection_times,18:00,regular
+437244219,barrier,gate,regular
+437244219,bicycle,yes,regular
+437244219,foot,yes,regular
+443539462,power,tower,regular
+443539462,source,nearmap,regular
+443617321,tourism,viewpoint,regular
+444794920,amenity,parking,regular
+445049136,amenity,bench,regular
+445049136,source,survey,regular
+446526588,amenity,post_box,regular
+447749603,amenity,bench,regular
+447749603,source,survey,regular
+448114727,highway,traffic_signals,regular
+448150056,amenity,waste_basket,regular
+448150056,source,survey,regular
+448151000,amenity,bench,regular
+448151000,backrest,yes,regular
+448598868,amenity,cinema,regular
+448598868,name,Event Cinemas,regular
+448610158,amenity,place_of_worship,regular
+448631381,amenity,fast_food,regular
+452922043,highway,bus_stop,regular
+452922043,source,survey,regular
+454124387,barrier,bollard,regular
+454124387,bicycle,yes,regular
+454124387,foot,yes,regular
+454158673,amenity,waste_basket,regular
+454158673,source,survey,regular
+455936975,amenity,post_box,regular
+455936975,operator,Australia Post,regular
+455936975,source,survey,regular
+459454008,highway,bus_stop,regular
+459454008,wheelchair,yes,regular
+459501315,source,survey,regular
+459501315,tourism,picnic_site,regular
+460417583,traffic_calming,table,regular
+468913159,highway,crossing,regular
+469720727,highway,crossing,regular
+469726639,traffic_calming,bump,regular
+471253671,amenity,post_box,regular
+471286408,amenity,bench,regular
+471286408,source,survey,regular
+471346239,amenity,recycling,regular
+471346239,name,Cash-a-Can Centre,regular
+471346239,source,survey,regular
+471359834,amenity,drinking_water,regular
+471359834,source,survey,regular
+471805652,amenity,bench,regular
+471805652,shelter,yes,regular
+471805652,source,survey,regular
+471947456,amenity,bench,regular
+471947456,source,survey,regular
+471962657,barrier,bollard,regular
+471962657,bicycle,yes,regular
+471962657,foot,yes,regular
+472262410,barrier,fence,regular
+472270545,amenity,bench,regular
+472270545,backrest,yes,regular
+472270545,source,survey,regular
+473469294,amenity,atm,regular
+473469294,operator,St George,regular
+473469294,source,survey,regular
+473476566,amenity,bench,regular
+473476566,backrest,yes,regular
+473476566,source,survey,regular
+474186441,power,tower,regular
+474186441,source,nearmap,regular
+474357101,amenity,emergency_phone,regular
+474357101,emergency,phone,regular
+474357101,odbl,clean,regular
+474377773,amenity,emergency_phone,regular
+474377773,emergency,phone,regular
+474377773,odbl,clean,regular
+474377773,source,GPS,regular
+474389428,operator,Woolworths,regular
+474389428,shop,supermarket,regular
+476140623,highway,speed_camera,regular
+476140623,source,survey,regular
+476253310,amenity,toilets,regular
+476253310,name,Mens,regular
+476253344,amenity,telephone,regular
+476253344,operator,Telstra,regular
+476253344,coins,yes,payment
+476253344,telephone_cards,yes,payment
+476253344,source,survey,regular
+476260510,highway,turning_circle,regular
+476441230,amenity,parking,regular
+478542489,highway,turning_circle,regular
+479741071,highway,turning_circle,regular
+482806248,name,Cremorne news agency,regular
+487110814,highway,turning_circle,regular
+493929383,barrier,bollard,regular
+493929383,bicycle,yes,regular
+493929383,foot,yes,regular
+493929408,amenity,bbq,regular
+493929408,shelter,yes,regular
+493929408,source,survey,regular
+493929434,barrier,bollard,regular
+493929434,bicycle,yes,regular
+493929434,foot,yes,regular
+496967754,amenity,bench,regular
+496967754,backrest,yes,regular
+496967754,source,survey,regular
+497587526,barrier,bollard,regular
+497587526,bicycle,yes,regular
+497587526,foot,yes,regular
+497587557,amenity,bench,regular
+497587557,backrest,yes,regular
+497587557,source,survey,regular
+497623847,highway,bus_stop,regular
+498802539,traffic_calming,hump,regular
+502862142,amenity,restaurant,regular
+502862142,name,Woodfired Pizza,regular
+506929953,highway,turning_circle,regular
+512735788,amenity,bench,regular
+512735788,highway,bus_stop,regular
+512735788,shelter,yes,regular
+512765488,amenity,drinking_water,regular
+512876521,barrier,gate,regular
+512876521,bicycle,yes,regular
+512876521,foot,yes,regular
+513962315,barrier,lift_gate,regular
+513962315,source,survey,regular
+514097734,highway,bus_stop,regular
+514507924,amenity,fast_food,regular
+514507924,cuisine,pizza,regular
+514507924,name,Domino's Pizza,regular
+514507924,opening_hours,Mo-Th 11:00-22:00; Fr-Sa 11:00-23:59;Su 11:00-22:00,regular
+515929927,name,Sydney City Toyota,regular
+515929927,operator,toyota,regular
+515929927,shop,car,regular
+515977398,housenumber,54,addr
+515977398,name,Baptist Church House,regular
+518303134,bench,no,regular
+518303134,highway,bus_stop,regular
+518303134,ref,2049-24,regular
+518303134,shelter,no,regular
+518303134,waste_basket,no,regular
+520716376,amenity,post_box,regular
+520990650,amenity,parking,regular
+520990650,name,Moorebank Sports Club,regular
+526587294,source,survey,regular
+526587294,traffic_calming,table,regular
+537535099,amenity,fast_food,regular
+538123031,amenity,bench,regular
+538123031,source,survey,regular
+538123057,amenity,bench,regular
+538123057,source,survey,regular
+540001781,barrier,block,regular
+540001781,bicycle,yes,regular
+540001781,foot,yes,regular
+540648049,natural,tree,regular
+540648049,source,survey,regular
+549764848,amenity,parking,regular
+549764848,disabled,no,capacity
+549764848,parent,no,capacity
+549764848,women,no,capacity
+549764848,fee,no,regular
+549764848,parking,surface,regular
+567264821,crossing,traffic_signals,regular
+567264821,highway,crossing,regular
+570567357,highway,turning_circle,regular
+570577955,amenity,pub,regular
+570577955,name,Mona Vale Hotel,regular
+571669130,waterway,waterfall,regular
+574162749,power,tower,regular
+574162749,source,nearmap,regular
+574162801,power,tower,regular
+574162801,source,nearmap,regular
+574162860,power,tower,regular
+574162860,source,nearmap,regular
+574204671,power,tower,regular
+574204671,source,nearmap,regular
+574204738,power,tower,regular
+574204738,source,nearmap,regular
+574266788,power,tower,regular
+574266788,source,nearmap,regular
+574266813,power,tower,regular
+574266813,source,nearmap,regular
+574280027,power,tower,regular
+574280027,source,nearmap,regular
+574280052,power,tower,regular
+574280052,source,nearmap,regular
+574280077,power,tower,regular
+574280077,source,nearmap,regular
+574284154,power,tower,regular
+574284154,source,nearmap,regular
+574300305,power,tower,regular
+574300305,source,nearmap,regular
+574300344,power,tower,regular
+574300344,source,nearmap,regular
+574311316,power,tower,regular
+574311316,source,nearmap,regular
+574313524,power,tower,regular
+574756318,leisure,playground,regular
+574756318,source,nearmap,regular
+574785101,highway,turning_circle,regular
+574785101,source,nearmap,regular
+574787276,highway,turning_circle,regular
+574787276,source,nearmap,regular
+575476188,highway,turning_circle,regular
+575476188,source,nearmap,regular
+575491191,highway,turning_circle,regular
+575491191,source,nearmap,regular
+575701148,highway,traffic_signals,regular
+575794985,power,tower,regular
+575794985,source,nearmap,regular
+576983940,power,tower,regular
+576983940,source,nearmap,regular
+576989977,power,tower,regular
+576989977,source,nearmap,regular
+576990002,power,tower,regular
+576990002,source,nearmap,regular
+577004719,power,tower,regular
+577004719,source,nearmap,regular
+577023052,power,tower,regular
+577023052,source,nearmap,regular
+577023077,power,tower,regular
+577023102,power,tower,regular
+577023102,source,nearmap,regular
+577070418,power,tower,regular
+577070418,source,nearmap,regular
+577070520,power,tower,regular
+577070520,source,nearmap,regular
+577089320,power,tower,regular
+577089320,source,nearmap,regular
+577292440,highway,traffic_signals,regular
+577491532,highway,turning_circle,regular
+577491532,source,nearmap,regular
+577499293,power,tower,regular
+577499293,source,yahoo,regular
+577499318,power,tower,regular
+577499318,source,nearmap,regular
+577499495,highway,turning_circle,regular
+577512206,power,tower,regular
+577512206,source,nearmap,regular
+577512231,power,tower,regular
+577512231,source,nearmap,regular
+577512256,power,tower,regular
+577512256,source,nearmap,regular
+577512283,power,tower,regular
+577512283,source,nearmap,regular
+577512334,power,tower,regular
+577512334,source,nearmap,regular
+577540104,power,tower,regular
+577540104,source,nearmap,regular
+577540129,power,tower,regular
+577540129,source,nearmap,regular
+577555363,power,tower,regular
+577555363,source,nearmap,regular
+579317682,power,tower,regular
+579317682,source,nearmap,regular
+579317721,power,tower,regular
+579317721,source,nearmap,regular
+579357546,power,tower,regular
+579357546,source,nearmap,regular
+580661848,source,knowledge,regular
+580661848,traffic_calming,choker,regular
+580957387,barrier,bollard,regular
+580961275,highway,traffic_signals,regular
+581679090,power,tower,regular
+581679090,source,nearmap,regular
+581687201,power,tower,regular
+581687201,source,nearmap,regular
+582474674,power,tower,regular
+582474674,source,nearmap,regular
+582474721,power,tower,regular
+582474721,source,nearmap,regular
+582478407,power,tower,regular
+582478407,source,nearmap,regular
+582484298,power,tower,regular
+582484298,source,nearmap,regular
+582487551,power,tower,regular
+582487551,source,nearmap,regular
+582786708,barrier,gate,regular
+582786708,bicycle,no,regular
+582786708,foot,no,regular
+582786708,horse,yes,regular
+582786708,motorcar,no,regular
+582786708,motorcycle,no,regular
+582825892,power,tower,regular
+582825892,source,nearmap,regular
+582830341,power,tower,regular
+582830341,source,yahoo,regular
+582834930,power,tower,regular
+582834930,source,nearmap,regular
+582841639,power,tower,regular
+582841639,source,nearmap,regular
+582841706,power,tower,regular
+582841706,source,nearmap,regular
+582841770,power,tower,regular
+582841770,source,nearmap,regular
+582846920,power,tower,regular
+582846920,source,nearmap,regular
+582846945,power,tower,regular
+582846945,source,nearmap,regular
+584021918,bench,yes,regular
+584021918,highway,bus_stop,regular
+584021918,name,Cambridge,regular
+584021918,shelter,yes,regular
+584021918,source,"local_knowledge, nearmap",regular
+585129091,amenity,fuel,regular
+585129091,source,bp.com; survey; nearmap,regular
+588288112,barrier,bollard,regular
+588288112,foot,yes,regular
+588288112,source,knowledge,regular
+588372473,access,private,regular
+588372473,barrier,gate,regular
+588372473,bicycle,yes,regular
+588372473,motorcar,yes,regular
+589255688,bench,yes,regular
+589255688,highway,bus_stop,regular
+589255688,source,survey,regular
+592879678,highway,turning_circle,regular
+592879678,source,nearmap,regular
+597058425,amenity,waste_basket,regular
+597058425,source,survey,regular
+597058542,barrier,gate,regular
+597058542,foot,yes,regular
+597612675,source,survey,regular
+597612675,tourism,picnic_site,regular
+598364337,power,tower,regular
+598364337,source,nearmap,regular
+598364587,power,tower,regular
+598364587,source,nearmap,regular
+598383883,highway,turning_circle,regular
+598383883,source,nearmap,regular
+598562518,power,tower,regular
+598562518,source,nearmap,regular
+598562759,power,tower,regular
+598562759,source,nearmap,regular
+599526963,housenumber,58-62,addr
+599526963,street,Delhi Road,addr
+599526963,name,Quest North Ryde,regular
+599526963,phone,02 8899 8888,regular
+599526963,tourism,hotel,regular
+599526963,website,http://www.questnorthryde.com.au/,regular
+600212899,power,tower,regular
+600212935,power,tower,regular
+600325846,crossing,traffic_signals,regular
+600325846,highway,crossing,regular
+600361893,crossing,traffic_signals,regular
+600361893,highway,traffic_signals,regular
+600752894,highway,traffic_signals,regular
+603454601,traffic_calming,bump,regular
+603522405,highway,crossing,regular
+603522405,traffic_calming,table,regular
+612019707,golf,pin,regular
+612019707,source,nearmap,regular
+612127617,amenity,pub,regular
+612127617,name,Gymea Hotel,regular
+612127617,name,knowledge,source
+612127617,website,http://gymeahotel.com.au,regular
+612814416,tourism,picnic_site,regular
+617453113,traffic_calming,bump,regular
+618720173,crossing,traffic_signals,regular
+618720173,highway,traffic_signals,regular
+619007311,crossing,traffic_signals,regular
+619007311,highway,traffic_signals,regular
+619680619,power,pole,regular
+619680644,power,pole,regular
+623939748,highway,traffic_signals,regular
+627242166,natural,tree,regular
+627242166,source,nearmap,regular
+627242191,natural,tree,regular
+627242191,source,nearmap,regular
+627242341,natural,tree,regular
+627242341,source,nearmap,regular
+627523348,power,tower,regular
+627523348,source,nearmap,regular
+629264755,power,tower,regular
+630738269,railway,buffer_stop,regular
+630744637,name,Burwood,regular
+630744637,operator,CityRail,regular
+630744637,public_transport,station,regular
+630744637,railway,station,regular
+631350651,railway,buffer_stop,regular
+631350679,railway,buffer_stop,regular
+639363563,highway,turning_circle,regular
+639363563,source,nearmap,regular
+639364383,highway,turning_circle,regular
+639364383,source,nearmap,regular
+648747778,power,tower,regular
+648760965,power,tower,regular
+657870771,power,tower,regular
+663380263,highway,crossing,regular
+663569481,leisure,playground,regular
+666860504,amenity,fast_food,regular
+666860504,name,KFC,regular
+667281911,amenity,fast_food,regular
+667281911,name,Domino's Pizza,regular
+668463880,highway,bus_stop,regular
+668733965,amenity,library,regular
+668733965,name,Engadine Library,regular
+679050497,amenity,post_box,regular
+697299398,leisure,playground,regular
+698001841,power,tower,regular
+698541704,power,tower,regular
+698541704,source,nearmap,regular
+700561733,highway,crossing,regular
+702329099,amenity,bench,regular
+702329099,source,nearmap,regular
+702348335,barrier,gate,regular
+702369953,barrier,entrance,regular
+702369953,foot,yes,regular
+705822149,highway,crossing,regular
+705822423,highway,crossing,regular
+706930356,traffic_calming,bump,regular
+707058392,natural,tree,regular
+707058392,source,nearmap,regular
+707058444,natural,tree,regular
+707058444,source,nearmap,regular
+707058470,natural,tree,regular
+707058470,source,nearmap,regular
+707058496,natural,tree,regular
+707058496,source,nearmap,regular
+707058659,natural,tree,regular
+707058659,source,nearmap,regular
+707058686,natural,tree,regular
+707058686,source,nearmap,regular
+707058739,natural,tree,regular
+707058739,source,nearmap,regular
+707058765,natural,tree,regular
+707058765,source,nearmap,regular
+707095846,natural,tree,regular
+707095846,source,nearmap,regular
+707095966,natural,tree,regular
+707095966,source,nearmap,regular
+713043081,crossing,island,regular
+713043081,highway,crossing,regular
+716506825,highway,bus_stop,regular
+720034249,amenity,atm,regular
+742398927,amenity,bench,regular
+742398927,backrest,yes,regular
+743327388,city,The Rocks,addr
+743327388,housenumber,55,addr
+743327388,postcode,2000,addr
+743327388,street,Harrington Street,addr
+743327388,shop,convenience,regular
+745486306,amenity,car_wash,regular
+745486306,operator,Budget,regular
+752353779,highway,bus_stop,regular
+754647848,amenity,cafe,regular
+754647848,name,Formaggi Ocello,regular
+754647848,website,www.ocello.com.au,regular
+760312115,amenity,toilets,regular
+762068739,highway,bus_stop,regular
+762071015,amenity,school,regular
+762751598,highway,bus_stop,regular
+762762682,highway,bus_stop,regular
+763052995,barrier,gate,regular
+763052995,source,survey,regular
+768580847,amenity,pharmacy,regular
+768580847,name,Vincents Pharmacy,regular
+772608713,sport,swimming,regular
+773388810,highway,bus_stop,regular
+773388810,operator,Veolia,regular
+773388810,route_ref,452,regular
+773388810,towards,Hurstville,regular
+775434319,railway,buffer_stop,regular
+777554467,amenity,fast_food,regular
+777554467,name,Subway,regular
+777554467,source,survey,regular
+778064891,amenity,parking,regular
+778074722,highway,traffic_signals,regular
+779026360,highway,turning_circle,regular
+783622328,operator,Energy Australia,regular
+783622328,power,cable_distribution_cabinet,regular
+783622328,ref,13472,regular
+783622328,source,nearmap,regular
+783622328,ref,survey,source
+786720263,name,Whale Rock,regular
+786720263,natural,rock,regular
+796920501,amenity,toilets,regular
+796920501,fee,no,regular
+796920501,wheelchair,yes,regular
+797792421,operator,Energy Australia,regular
+797792421,power,cable_distribution_cabinet,regular
+797792421,ref,13177,regular
+797792421,source,nearmap,regular
+797792421,ref,survey,source
+807725121,amenity,fountain,regular
+807725121,source,nearmap,regular
+814803638,bench,no,regular
+814803638,highway,bus_stop,regular
+814803638,shelter,no,regular
+814803638,source,GPS survey,regular
+814803638,tactile_paving,no,regular
+814804539,source,PGS,regular
+816440070,amenity,fast_food,regular
+816440070,building,yes,regular
+816440070,cuisine,burger,regular
+816440070,name,McDonald's,regular
+816440070,source,nearmap,regular
+819907412,amenity,place_of_worship,regular
+819907412,denomination,Christian Reformed Church,regular
+819907412,name,Sydney Reformed,regular
+819907412,religion,christian,regular
+829661521,amenity,pharmacy,regular
+829673851,amenity,police,regular
+829673851,name,Riverwood Police Station,regular
+829673851,phone,+61-2-9717-5399,regular
+829673851,source,police.nsw.gov.au,regular
+829746676,amenity,police,regular
+829746676,name,Green Valley Police Station,regular
+829746676,phone,+61-2-9607-1799,regular
+829746676,source,police.nsw.gov.au,regular
+831130185,amenity,fire_station,regular
+831130185,name,Baulkham Hills Fire Station,regular
+831130185,phone,+61-2-9683-2005,regular
+831130185,source,fire.nsw.gov.au,regular
+832198518,amenity,fire_station,regular
+832198518,name,Riverstone Fire Station,regular
+832198518,phone,+61-2-9627-9003,regular
+832198518,source,fire.nsw.gov.au,regular
+834897743,highway,bus_stop,regular
+834897743,local_ref,211221,regular
+834897743,source,survey,regular
+836112331,city,Sydney,addr
+836112331,country,AU,addr
+836112331,housenumber,60,addr
+836112331,postcode,2000,addr
+836112331,state,New South Wales,addr
+836112331,street,Druitt Street,addr
+836112331,amenity,fast_food,regular
+836112331,cuisine,sandwich,regular
+836112331,name,Subway,regular
+836112331,operator,Subway,regular
+836112331,phone,+61292649944,regular
+836112331,website,www.subway.com.au,regular
+837056025,amenity,pub,regular
+837056025,name,Cabana Bar and Lounge,regular
+837160506,amenity,school,regular
+837160506,name,St Gabriel's School for Hearing Impaired Children,regular
+840175528,amenity,waste_basket,regular
+840175528,source,nearmap; survey,regular
+841427165,amenity,parking,regular
+841427165,source,nearmap,regular
+842918366,amenity,school,regular
+842918366,name,Cameragal Montessori School,regular
+842918366,source,survey,regular
+842976705,leisure,playground,regular
+842976705,source,nearmap,regular
+848389462,highway,traffic_signals,regular
+861235787,amenity,drinking_water,regular
+864307932,amenity,fast_food,regular
+864307932,name,Cambridge Park Take Away Foods,regular
+871670151,amenity,bench,regular
+871670151,backrest,yes,regular
+871670151,source,survey,regular
+878260117,bench,yes,regular
+878260117,highway,bus_stop,regular
+878260117,name,Cricketers,regular
+878260117,shelter,yes,regular
+878260117,source,nearmap; local_knowledge,regular
+895172481,highway,bus_stop,regular
+907714175,barrier,gate,regular
+907948062,source,survey,regular
+907948062,tourism,viewpoint,regular
+908434531,amenity,toilets,regular
+908434531,fee,no,regular
+908434531,wheelchair,no,regular
+910343350,name,Bate Bay,regular
+910343350,natural,bay,regular
+910343350,source,historical,regular
+910343392,name,Shell Point,regular
+910343392,natural,point,regular
+910343392,place,locality,regular
+910343392,source,historical,regular
+910343392,source_ref,http://parishmaps.lands.nsw.gov.au/mrsid/image_sid.pl?client=pmap&image=PMapMN05/14039502.sid,regular
+910577257,access,no,regular
+910577257,barrier,gate,regular
+910577257,source,survey,regular
+910577257,survey,gps,regular
+911567249,name,Double Bay,regular
+911567249,natural,bay,regular
+911567249,source,historical,regular
+913079170,amenity,bicycle_parking,regular
+913079170,operator,UNSW (Security phone: +61 2 9385 6000),regular
+913079170,source,survey,regular
+913079170,location,nearmap,source
+913079170,operator,UNSW website,source
+913265137,name,Clontarf Point,regular
+913265137,natural,point,regular
+913265137,place,locality,regular
+913265137,source,historical,regular
+913265137,source_ref,http://parishmaps.lands.nsw.gov.au/mrsid/image_sid.pl?client=pmap&image=PMapMN04/14041902.sid,regular
+926183211,name,Diamond Bay,regular
+926183211,natural,bay,regular
+926183211,source,historical,regular
+928133180,barrier,gate,regular
+934188476,name,Lady Bay,regular
+934188476,natural,bay,regular
+934188476,source,historical,regular
+934188476,source_ref,http://nla.gov.au/nla.map-rm1273,regular
+936115858,amenity,place_of_worship,regular
+936115858,name,Sydwest Asian Christian Church,regular
+936115858,religion,christian,regular
+951237980,bench,no,regular
+951237980,highway,bus_stop,regular
+951237980,shelter,no,regular
+963990570,name,Burraneer Bay,regular
+963990570,natural,bay,regular
+975541037,amenity,bench,regular
+975541037,source,survey,regular
+975541037,location,nearmap,source
+976322878,building,entrance,regular
+979995161,barrier,cycle_barrier,regular
+984955293,amenity,place_of_worship,regular
+984955293,denomination,anglican,regular
+984955293,name,St Mark's Anglican Church,regular
+984955293,religion,christian,regular
+995283128,aeroway,windsock,regular
+995283128,source,nearmap,regular
+1000014892,amenity,restaurant,regular
+1000014892,name,La Cucina,regular
+1000014892,source,survey,regular
+1000014892,location,nearmap,source
+1005124121,amenity,bicycle_parking,regular
+1005124121,source,survey,regular
+1005124121,location,nearmap,source
+1005964148,amenity,drinking_water,regular
+1026270886,source,yahoo,regular
+1068594227,amenity,toilets,regular
+1074768987,traffic_calming,table,regular
+1080127405,highway,traffic_signals,regular
+1081217619,amenity,restaurant,regular
+1081217619,cuisine,vietnamese,regular
+1084662516,street,Bourke Street,addr
+1084662516,amenity,cafe,regular
+1084662516,name,Cafe Zoe,regular
+1095964184,amenity,fuel,regular
+1095964184,name,Prime,regular
+1096558307,barrier,gate,regular
+1096558307,bicycle,no,regular
+1096558307,foot,no,regular
+1099214648,ref,99A,regular
+1099214648,source,nearmap,regular
+1099313562,aeroway,gate,regular
+1099313562,ref,40A,regular
+1099313562,source,nearmap,regular
+1099313600,aeroway,gate,regular
+1099313600,ref,18,regular
+1099313600,source,nearmap,regular
+1099334423,aeroway,gate,regular
+1099334423,ref,34,regular
+1099334423,source,nearmap,regular
+1099334784,aeroway,gate,regular
+1099334784,ref,55,regular
+1099334784,source,nearmap,regular
+1101833090,ford,stepping_stones,regular
+1104320976,beacon,lateral_port,regular
+1104320976,seamark,beacon,regular
+1104320976,source,nearmap,regular
+1104321021,beacon,lateral_port,regular
+1104321021,seamark,beacon,regular
+1104321021,beacon_lateral:category,port,seamark
+1104321021,beacon_lateral:colour,red,seamark
+1104321021,beacon_lateral:system,iala-a,seamark
+1104321021,type,beacon_lateral,seamark
+1104321021,source,survey,regular
+1104321021,location,nearmap,source
+1104321056,colour,red,buoy
+1104321056,fixme,survey needed to check purpose of object,regular
+1104321056,seamark,buoy,regular
+1104321056,source,nearmap,regular
+1110141988,leisure,playground,regular
+1110141988,wheelchair,limited,regular
+1112792495,name,Chain Reaction Bicycle Company,regular
+1112792495,shop,bicycle,regular
+1112792495,source,survey,regular
+1112792495,location,nearmap,source
+1117739830,housenumber,165,addr
+1117739830,postcode,2000,addr
+1117739830,street,King Street,addr
+1117739830,amenity,restaurant,regular
+1117739830,cuisine,chinese,regular
+1117739830,name,Deli Choice,regular
+1120447919,seamark,buoy,regular
+1120447919,source,nearmap,regular
+1121134351,amenity,pharmacy,regular
+1121141302,amenity,restaurant,regular
+1123161446,amenity,fast_food,regular
+1123161446,cuisine,burger,regular
+1123161446,name,McDonalds,regular
+1124634895,amenity,atm,regular
+1124634895,operator,Westpac,regular
+1124634895,source,survey,regular
+1124634895,location,nearmap,source
+1129299152,housenumber,136,addr
+1129299152,street,Croyton Road,addr
+1129299152,shop,convenience,regular
+1136327826,barrier,gate,regular
+1136327826,school,entrance,regular
+1141753587,amenity,toilets,regular
+1142018055,amenity,fuel,regular
+1146889228,highway,crossing,regular
+1146889228,source,nearmap,regular
+1147198652,barrier,cycle_barrier,regular
+1150426376,highway,crossing,regular
+1152530469,highway,bus_stop,regular
+1152530469,shelter,yes,regular
+1152530469,source,survey,regular
+1152530469,location,nearmap,source
+1157256566,amenity,cafe,regular
+1157256566,source,survey,regular
+1157256566,location,nearmap,source
+1157987630,traffic_calming,table,regular
+1158725632,leisure,playground,regular
+1160951430,amenity,restaurant,regular
+1160951430,cuisine,greek,regular
+1160951430,name,Santorini,regular
+1167963331,amenity,bench,regular
+1167963331,source,survey,regular
+1170757359,amenity,fast_food,regular
+1171698774,crossing,traffic_signals,regular
+1171698774,highway,crossing,regular
+1171706911,highway,crossing,regular
+1186833068,barrier,gate,regular
+1191078363,ref,K 2656,regular
+1191078363,fixme,please_fix_position,seamark
+1191078363,light:character,Fl,seamark
+1191078363,light:colour,red,seamark
+1191078363,light:group,3,seamark
+1191078363,light:height,12,seamark
+1191078363,light:information,Visible in fairway of harbor between Shark Point and Point Piper.,seamark
+1191078363,light:period,8,seamark
+1191078363,light:range,6,seamark
+1191078363,light:ref,K 2656,seamark
+1191078363,light:sequence,"1+(1),1+(1),1+(3)",seamark
+1191078363,longname,SYDNEY HARBOR. Shark Island.,seamark
+1191078363,name,Shark Island.,seamark
+1191078363,type,light_minor,seamark
+1191078363,source,US NGA Pub. 111. 2010-09-02.,regular
+1191078853,ref,K 2695.5,regular
+1191078853,beacon_lateral:category,port,seamark
+1191078853,beacon_lateral:system,iala-a,seamark
+1191078853,fixme,"please_fix_postion,beacon_guess",seamark
+1191078853,light:character,F,seamark
+1191078853,light:colour,red,seamark
+1191078853,light:information,"R, beacon, topmark.",seamark
+1191078853,light:ref,K 2695.5,seamark
+1191078853,longname,SYDNEY HARBOR. Simmons Point.,seamark
+1191078853,name,Simmons Point.,seamark
+1191078853,type,beacon_lateral,seamark
+1191078853,source,US NGA Pub. 111. 2010-09-02.,regular
+1191079531,light:category,lower,seamark
+1191079531,light:character,Fl,seamark
+1191079531,light:colour,yellow,seamark
+1191079531,light:period,2,seamark
+1191079531,light:reference,K 2625.5,seamark
+1191079531,type,light_minor,seamark
+1191079531,source,US NGA Pub. 111. 2010-09-02.,regular
+1191080036,ref,K 2619.5,regular
+1191080036,fixme,please_fix_position,seamark
+1191080036,light:character,Iso,seamark
+1191080036,light:colour,white,seamark
+1191080036,light:height,4,seamark
+1191080036,light:period,2,seamark
+1191080036,light:range,8,seamark
+1191080036,light:ref,K 2619.5,seamark
+1191080036,longname,"Port Hacking, Glaisher Point. Burraneer Point.",seamark
+1191080036,name,Burraneer Point.,seamark
+1191080036,type,light_minor,seamark
+1191080036,source,US NGA Pub. 111. 2010-09-02.,regular
+1217312890,power,tower,regular
+1218574733,leisure,playground,regular
+1218574733,source,nearmap,regular
+1226582389,power,tower,regular
+1226582389,source,nearmap,regular
+1228877386,leisure,playground,regular
+1228877442,amenity,parking,regular
+1230231675,name,Dolls Point Baths,regular
+1230231675,sport,swimming,regular
+1230267720,natural,tree,regular
+1230267720,source,survey,regular
+1230267720,location,nearmap,source
+1230267720,type,palm,regular
+1230267856,natural,tree,regular
+1230267856,source,survey,regular
+1230267856,location,nearmap,source
+1230267856,type,conifer,regular
+1230267992,natural,tree,regular
+1230267992,source,survey,regular
+1230267992,location,nearmap,source
+1230267992,type,palm,regular
+1230268067,natural,tree,regular
+1230268067,source,survey,regular
+1230268067,location,nearmap,source
+1230268067,type,palm,regular
+1230268152,natural,tree,regular
+1230268152,source,survey,regular
+1230268152,location,nearmap,source
+1230268152,type,palm,regular
+1230268232,natural,tree,regular
+1230268232,source,survey,regular
+1230268232,location,nearmap,source
+1230268232,type,conifer,regular
+1236755601,highway,crossing,regular
+1236755601,source,bing,regular
+1250913033,hiking,yes,regular
+1250913033,information,guidepost,regular
+1250913033,tourism,information,regular
+1256214640,barrier,gate,regular
+1256214640,source,nearmap,regular
+1258959107,leisure,playground,regular
+1258959107,source,nearmap,regular
+1258959107,wheelchair,no,regular
+1258977751,source,nearmap,regular
+1259008134,amenity,toilets,regular
+1259008134,attribution,Based on Mosman Council data,regular
+1259008134,opening_hours,24/7,regular
+1259008134,operator,Mosman Council,regular
+1259008134,source_ref,"http://data.mosman.nsw.gov.au/dataset/50,Public-amenities-maintained-by-Mosman-Council",regular
+1259008134,wheelchair,no,regular
+1259073027,amenity,waste_basket,regular
+1259073027,source,survey,regular
+1259073027,location,nearmap,source
+1263011009,man_made,communications_tower,regular
+1263011009,name,Telstra Tower,regular
+1263296138,crossing,island,regular
+1263296138,highway,crossing,regular
+1264487033,amenity,atm,regular
+1264487033,wheelchair,yes,regular
+1266458955,amenity,bench,regular
+1266458955,source,survey,regular
+1266458955,location,nearmap,source
+1268348578,name,The Menzies,regular
+1268348578,tourism,hotel,regular
+1277993018,name,Town Hall,regular
+1277993018,railway,subway_entrance,regular
+1277993018,location,nearmap,source
+1280180484,amenity,toilets,regular
+1280189383,housenumber,29-35,addr
+1280189383,street,President Avenue,addr
+1280189383,amenity,pharmacy,regular
+1280189383,name,Chemist Warehouse,regular
+1280199989,historic,memorial,regular
+1281315682,amenity,fast_food,regular
+1281315682,cuisine,chicken,regular
+1281315682,name,Ritz Chix,regular
+1283593138,amenity,pub,regular
+1283593138,name,Cronulla Lawn Bowling Club,regular
+1287646955,historic,house,regular
+1287646955,name,Lynnvale,regular
+1294049798,name,David Newton,regular
+1294049798,shop,real_estate,regular
+1298324831,amenity,bench,regular
+1298324831,backrest,yes,regular
+1298324831,source,survey,regular
+1298324831,location,nearmap,source
+1301244838,amenity,bicycle_parking,regular
+1301244838,source,survey,regular
+1301244903,amenity,bicycle_parking,regular
+1301244903,source,survey,regular
+1302783137,crossing,uncontrolled,regular
+1302783137,highway,crossing,regular
+1302783137,source,survey,regular
+1304835245,highway,bus_stop,regular
+1313089963,highway,bus_stop,regular
+1321228660,leisure,playground,regular
+1321228660,name,Funz Play Cafe,regular
+1323016229,seamark,beacon,regular
+1323016229,source,nearmap,regular
+1323184557,buoy,cardinal_east,regular
+1323184557,seamark,buoy,regular
+1323184557,source,survey,regular
+1323184557,location,nearmap,source
+1323184557,topmark,2cones_base2base,regular
+1323184557,colour,black,topmark
+1330398969,bench,yes,regular
+1330398969,highway,bus_stop,regular
+1330398969,shelter,yes,regular
+1330398969,source,nearmap,regular
+1332233343,highway,bus_stop,regular
+1332310672,bus,yes,regular
+1332310672,highway,bus_stop,regular
+1332310672,public_transport,stop_position,regular
+1334520608,bench,yes,regular
+1334520608,highway,bus_stop,regular
+1334520608,shelter,yes,regular
+1334520608,source,survey,regular
+1342163380,man_made,communications_tower,regular
+1343248620,man_made,lighthouse,regular
+1343310930,highway,turning_circle,regular
+1346598581,amenity,pharmacy,regular
+1350996688,amenity,place_of_worship,regular
+1350996688,denomination,catholic,regular
+1350996688,name,Croatian Church of Our Lady,regular
+1350996688,religion,christian,regular
+1354677120,highway,bus_stop,regular
+1354688777,man_made,pole,regular
+1368771290,amenity,pub,regular
+1368771290,name,P J O'Brien's,regular
+1380156673,amenity,hospital,regular
+1380156673,emergency,no,regular
+1380156673,name,Macquarie University Hospital,regular
+1408488866,amenity,pub,regular
+1408488866,name,Drummoyne Sports Club,regular
+1408488866,wifi,no,regular
+1417009836,name,Woolworths,regular
+1417009836,shop,supermarket,regular
+1420545294,highway,bus_stop,regular
+1420545294,name,Hill End Road,regular
+1422555618,phone,+61 410 251 141,contact
+1422555618,website,http://www.reidcycles.com.au,contact
+1422555618,name,Reid Cycles,regular
+1422555618,phone,+61 410 251 141,regular
+1422555618,shop,bicycle,regular
+1422555618,url,http://www.reidcycles.com.au,regular
+1423737086,name,Gladesville Newsagent,regular
+1423737086,shop,newsagent,regular
+1423739424,access,foot,regular
+1423739424,barrier,bollard,regular
+1423739424,source,survey,regular
+1424863677,amenity,taxi,regular
+1426705238,amenity,fast_food,regular
+1426705238,cuisine,fish_and_chips,regular
+1426705238,name,Mohr,regular
+1426705238,source,survey,regular
+1427601749,railway,subway_entrance,regular
+1430672141,access,foot,regular
+1430672141,barrier,bollard,regular
+1460582139,amenity,theatre,regular
+1460582139,name,Lyric Theatre,regular
+1460582139,wheelchair,yes,regular
+1479669213,barrier,bollard,regular
+1481002938,shop,supermarket,regular
+1482092059,amenity,pub,regular
+1482092059,name,Lone Pine Tavern,regular
+1500998497,name,Hammondville Bakery,regular
+1500998497,shop,bakery,regular
+1501547766,amenity,car_rental,regular
+1501547766,name,Thrifty,regular
+1501547766,operator,Thrifty,regular
+1522573429,highway,bus_stop,regular
+1541874100,highway,traffic_signals,regular
+1555183897,railway,buffer_stop,regular
+1562157288,name,Martin Place,regular
+1562157288,railway,subway_entrance,regular
+1569974455,traffic_calming,table,regular
+1573733718,railway,buffer_stop,regular
+1573733971,railway,buffer_stop,regular
+1576421180,railway,buffer_stop,regular
+1577583965,barrier,gate,regular
+1577706014,railway,buffer_stop,regular
+1582050035,railway,buffer_stop,regular
+1584147871,railway,buffer_stop,regular
+1585229376,railway,buffer_stop,regular
+1590274970,railway,buffer_stop,regular
+1597172333,historic,archaeological_site,regular
+1597172333,name,Shell midden,regular
+1597401307,railway,level_crossing,regular
+1599169749,barrier,lift_gate,regular
+1604522373,highway,bus_stop,regular
+1610166196,barrier,lift_gate,regular
+1610166196,bicycle,yes,regular
+1610166196,foot,yes,regular
+1612463919,amenity,fast_food,regular
+1612463919,cuisine,pizza,regular
+1612463919,name,Hilltop Oven,regular
+1613714327,housenumber,53,addr
+1613714327,postcode,2160,addr
+1613714327,street,Centenary Road,addr
+1613714327,building,yes,regular
+1613758373,amenity,atm,regular
+1613758373,operator,Commonwealth Bank,regular
+1613782576,highway,bus_stop,regular
+1613895221,amenity,fast_food,regular
+1613895221,cuisine,pizza,regular
+1613895221,name,Stars On The Run,regular
+1613895221,wheelchair,yes,regular
+1613914487,amenity,bbq,regular
+1613920260,amenity,bench,regular
+1614079774,shop,hairdresser,regular
+1614394688,highway,turning_circle,regular
+1615548533,source,PGS,regular
+1616181198,amenity,fast_food,regular
+1616181198,cuisine,international,regular
+1616181198,name,Food Hall,regular
+1616361030,amenity,fast_food,regular
+1616361030,cuisine,chicken,regular
+1616361030,name,KFC,regular
+1618699976,amenity,fuel,regular
+1618699976,atm,yes,amenity
+1618699976,carwash,no,amenity
+1618699976,cleango,no,amenity
+1618699976,eftpos,yes,amenity
+1618699976,express,yes,amenity
+1618699976,restaurant,no,amenity
+1618699976,superwash,no,amenity
+1618699976,truck_stop,no,amenity
+1618699976,BP:address,"236 - 240 Georges River Rd, Croydon Park NSW 2133",regular
+1618699976,BP:location_id,1397,regular
+1618699976,diesel,yes,fuel
+1618699976,e10,yes,fuel
+1618699976,fuel:GTL_diesel,no,regular
+1618699976,lpg,no,fuel
+1618699976,octane_91,no,fuel
+1618699976,octane_95,yes,fuel
+1618699976,octane_98,yes,fuel
+1618699976,name,BP Express Croydon Park,regular
+1618699976,operator,BP,regular
+1618699976,phone,+61-2-9799-2645,regular
+1618699976,lpg_bottles,yes,rent
+1618699976,trailers,yes,rent
+1618699976,source,bp.com,regular
+1618699976,toilets,no,regular
+1618721613,highway,turning_circle,regular
+1619647590,source,ABS2011-data.gov.au,regular
+1620892547,amenity,bicycle_parking,regular
+1620892547,capacity,4,regular
+1620892547,covered,no,regular
+1620923230,source,ABS2011-data.gov.au,regular
+1620923258,source,ABS2011-data.gov.au,regular
+1620923283,source,ABS2011-data.gov.au,regular
+1620923315,source,ABS2011-data.gov.au,regular
+1620923340,source,ABS2011-data.gov.au,regular
+1620923365,source,ABS2011-data.gov.au,regular
+1620923394,source,ABS2011-data.gov.au,regular
+1620923422,source,ABS2011-data.gov.au,regular
+1624774297,source,PGS,regular
+1627317682,highway,traffic_signals,regular
+1627556689,name,Triniti Business Park,regular
+1628186582,power,tower,regular
+1628863542,amenity,bicycle_parking,regular
+1628863542,capacity,2,regular
+1631947597,housenumber,9,addr
+1631947597,postcode,2160,addr
+1631947597,street,Douglas Street,addr
+1631947597,building,yes,regular
+1633401188,housenumber,189,addr
+1633401188,street,Kent Street,addr
+1633401188,addr,survey,source
+1643815007,name,The Bike Barn,regular
+1643815007,shop,bicycle,regular
+1643815007,source,knowledge,regular
+1652394239,amenity,cafe,regular
+1653231545,traffic_calming,bump,regular
+1659730510,tourism,picnic_site,regular
+1661846561,amenity,telephone,regular
+1663857801,highway,traffic_signals,regular
+1666748024,highway,traffic_signals,regular
+1670142616,ref,2,regular
+1670142616,source,survey,regular
+1672835940,highway,traffic_signals,regular
+1680959676,leisure,playground,regular
+1684069563,crossing,yes,regular
+1684069563,highway,traffic_signals,regular
+1685336051,highway,crossing,regular
+1689304003,highway,traffic_signals,regular
+1689329569,highway,traffic_signals,regular
+1691334619,highway,traffic_signals,regular
+1691515205,highway,traffic_signals,regular
+1705361043,highway,crossing,regular
+1705361043,traffic_calming,hump,regular
+1707803662,amenity,post_box,regular
+1712265074,highway,traffic_signals,regular
+1716262723,amenity,place_of_worship,regular
+1716262723,name,Our Lady of Mount Carmel,regular
+1717328170,name,Old Catholic,regular
+1717328170,place,locality,regular
+1726194276,amenity,fast_food,regular
+1726194276,cuisine,spanish,regular
+1726194276,name,Oporto,regular
+1730331047,highway,turning_circle,regular
+1730358096,barrier,bollard,regular
+1730358096,bicycle,yes,regular
+1730358096,foot,yes,regular
+1732566728,amenity,veterinary,regular
+1732566728,source,survey,regular
+1733965189,man_made,flagpole,regular
+1736726950,highway,turning_circle,regular
+1742619222,amenity,fuel,regular
+1742619222,brand,7-Eleven,regular
+1742619222,name,7-Eleven,regular
+1742619222,operator,7-Eleven,regular
+1745101641,leisure,playground,regular
+1756919770,power,tower,regular
+1757844904,highway,traffic_signals,regular
+1758052892,highway,turning_circle,regular
+1760425138,highway,traffic_signals,regular
+1762593367,traffic_calming,table,regular
+1762740202,highway,traffic_signals,regular
+1762751349,highway,crossing,regular
+1771169790,highway,bus_stop,regular
+1771169790,source,survey,regular
+1776519265,highway,traffic_signals,regular
+1776903301,access,private,regular
+1776903301,amenity,restaurant,regular
+1776903301,name,OR's Mess,regular
+1778674196,amenity,cafe,regular
+1778674196,cuisine,coffee_shop,regular
+1778674196,name,Meze Me,regular
+1778747867,barrier,cycle_barrier,regular
+1778747867,bicycle,dismount,regular
+1779114879,highway,bus_stop,regular
+1779114879,name,215075,regular
+1781933728,highway,crossing,regular
+1782040141,highway,traffic_signals,regular
+1782555596,tourism,viewpoint,regular
+1789864872,highway,crossing,regular
+1797755456,door,yes,regular
+1797849413,door,yes,regular
+1797849516,door,yes,regular
+1797849516,indoor,yes,regular
+1797849566,door,yes,regular
+1798151562,leisure,playground,regular
+1800236531,highway,traffic_signals,regular
+1801237573,attribution,Thomas Mattern,regular
+1801237573,leisure,golf_course,regular
+1802848886,highway,traffic_signals,regular
+1804700651,amenity,swimming_pool,regular
+1804700651,covered,yes,regular
+1804700651,name,Galston Aquatic Center,regular
+1804700651,sport,swimming,regular
+1805640593,sport,golf,regular
+1805734634,leisure,playground,regular
+1805734634,source,GPS survey,regular
+1805847823,highway,turning_circle,regular
+1812389142,housenumber,201,addr
+1812389142,postcode,2000,addr
+1812389142,street,Sussex Street,addr
+1812389142,amenity,restaurant,regular
+1812389142,name,Chinta Ria,regular
+1812389142,website,https://www.facebook.com/pages/Chinta-Ria-Temple-Of-Love/133265790054252,regular
+1812582382,highway,turning_circle,regular
+1813148738,amenity,bicycle_parking,regular
+1813148738,capacity,7,regular
+1813148738,covered,no,regular
+1813148738,operator,UNSW (Security phone: +61 2 9385 6000),regular
+1813148738,operator,UNSW website,source
+1813353478,highway,bus_stop,regular
+1813445456,source,GPS survey,regular
+1815543236,name,Waverton Fine Food & Wine,regular
+1815543236,shop,deli,regular
+1817253975,traffic_calming,table,regular
+1817317915,highway,crossing,regular
+1817320820,highway,traffic_signals,regular
+1818211251,highway,traffic_signals,regular
+1819242276,highway,turning_circle,regular
+1820897787,highway,turning_circle,regular
+1821025624,traffic_calming,table,regular
+1821078919,note,school zone east of here,regular
+1821137220,highway,turning_circle,regular
+1821582144,highway,traffic_signals,regular
+1822907051,amenity,place_of_worship,regular
+1822907051,denomination,anglican,regular
+1822907051,name,St Columbs Anglican Church,regular
+1822907051,religion,christian,regular
+1822938150,amenity,school,regular
+1822938150,name,Marsden High School,regular
+1825957129,highway,traffic_signals,regular
+1831853948,highway,traffic_signals,regular
+1831897242,highway,traffic_signals,regular
+1832327997,highway,crossing,regular
+1832330456,highway,traffic_signals,regular
+1832682935,crossing,traffic_signals,regular
+1832695072,highway,traffic_signals,regular
+1832707615,crossing,zebra,regular
+1832707615,highway,crossing,regular
+1832718719,highway,traffic_signals,regular
+1833107577,amenity,place_of_worship,regular
+1833107577,denomination,anglican,regular
+1833107577,name,St. Barnabas,regular
+1833107577,religion,christian,regular
+1833107577,source,survey,regular
+1833107577,website,www.barneys.org.au,regular
+1833120155,highway,traffic_signals,regular
+1833142908,housenumber,66,addr
+1833142908,street,Bay Street,addr
+1833142908,source,photo,regular
+1833174938,highway,traffic_signals,regular
+1833251521,amenity,toilets,regular
+1833251521,source,photo,regular
+1833685553,highway,turning_circle,regular
+1833786049,crossing,zebra,regular
+1833786049,highway,crossing,regular
+1833786049,location,bing,source
+1833794498,highway,turning_circle,regular
+1833794498,source,Bing,regular
+1833885869,highway,traffic_signals,regular
+1833974338,highway,turning_circle,regular
+1834055072,barrier,gate,regular
+1834467789,highway,turning_circle,regular
+1834471525,highway,turning_circle,regular
+1834494204,highway,turning_circle,regular
+1834557593,highway,turning_circle,regular
+1834592300,source,GPS survey,regular
+1834715403,highway,turning_circle,regular
+1834842494,highway,turning_circle,regular
+1834925157,highway,traffic_signals,regular
+1834925183,highway,traffic_signals,regular
+1834977624,power,tower,regular
+1835071449,highway,turning_circle,regular
+1835239495,housenumber,25,addr
+1835281938,highway,turning_circle,regular
+1836040183,crossing,zebra,regular
+1836040183,highway,crossing,regular
+1836106066,highway,traffic_signals,regular
+1836168615,highway,traffic_signals,regular
+1836168996,crossing,zebra,regular
+1836168996,highway,crossing,regular
+1836180355,power,tower,regular
+1836180355,source,Bing,regular
+1836207131,highway,turning_circle,regular
+1836302951,crossing,toucan,regular
+1836366860,highway,traffic_signals,regular
+1836455750,highway,turning_circle,regular
+1836465710,housenumber,69,addr
+1836465710,street,Woronora Crescent,addr
+1836471375,highway,turning_circle,regular
+1836547873,highway,traffic_signals,regular
+1836626732,highway,turning_circle,regular
+1836658856,highway,turning_circle,regular
+1836876947,highway,turning_circle,regular
+1836881643,highway,turning_circle,regular
+1836978798,highway,turning_circle,regular
+1837128498,highway,traffic_signals,regular
+1837227404,power,tower,regular
+1837227429,power,tower,regular
+1837233089,power,tower,regular
+1837233089,source,Bing,regular
+1837233114,power,tower,regular
+1837233114,source,Bing,regular
+1837233140,power,tower,regular
+1837233140,source,Bing,regular
+1837233166,power,tower,regular
+1837233166,source,Bing,regular
+1837480980,name,Cronulla,regular
+1837480980,operator,CityRail,regular
+1837480980,public_transport,station,regular
+1837480980,railway,station,regular
+1837670634,highway,traffic_signals,regular
+1837763369,highway,traffic_signals,regular
+1837774754,highway,bus_stop,regular
+1837774754,source,Local Knowledge,regular
+1837794156,highway,traffic_signals,regular
+1838250876,power,pole,regular
+1838250876,ref,BE10223,regular
+1838250876,source,GPS survey,regular
+1838332357,highway,turning_circle,regular
+1838337226,highway,traffic_signals,regular
+1838415585,highway,turning_circle,regular
+1838501164,highway,traffic_signals,regular
+1838566942,highway,traffic_signals,regular
+1838598553,highway,crossing,regular
+1838598553,name,Bexley X Reginald,regular
+1838670588,highway,traffic_signals,regular
+1838695512,highway,turning_circle,regular
+1838735158,highway,traffic_signals,regular
+1838774017,highway,traffic_signals,regular
+1838810497,highway,turning_circle,regular
+1838811812,highway,turning_circle,regular
+1838827679,highway,turning_circle,regular
+1838866131,highway,turning_circle,regular
+1839087109,barrier,gate,regular
+1839130252,barrier,lift_gate,regular
+1839761423,highway,turning_circle,regular
+1839761474,highway,turning_circle,regular
+1839761637,highway,turning_circle,regular
+1840048749,highway,traffic_signals,regular
+1840160650,amenity,cafe,regular
+1840160650,cuisine,coffee_shop,regular
+1840160650,source,survey,regular
+1840600291,highway,turning_circle,regular
+1840600291,source,Bing,regular
+1840710369,highway,crossing,regular
+1840710369,source,bing,regular
+1840720650,highway,traffic_signals,regular
+1841120906,crossing,uncontrolled,regular
+1841120906,crossing_ref,zebra,regular
+1841120906,highway,crossing,regular
+1841534291,source,Bing aerial,regular
+1841534291,traffic_calming,table,regular
+1841736317,highway,turning_circle,regular
+1841764855,highway,turning_circle,regular
+1842041729,highway,turning_circle,regular
+1842041729,source,Bing,regular
+1842115874,highway,turning_circle,regular
+1842543571,housenumber,40,addr
+1842543571,street,Brushwood Drive,addr
+1842549630,highway,turning_circle,regular
+1842577563,highway,turning_circle,regular
+1842577959,highway,turning_circle,regular
+1843272637,highway,turning_circle,regular
+1843272637,source,Bing,regular
+1843446006,highway,turning_circle,regular
+1844044410,highway,turning_circle,regular
+1844044882,highway,turning_circle,regular
+1844191412,highway,turning_circle,regular
+1844193233,highway,turning_circle,regular
+1844243625,highway,turning_circle,regular
+1844243789,highway,traffic_signals,regular
+1844369227,highway,turning_circle,regular
+1844369252,highway,turning_circle,regular
+1844369302,highway,turning_circle,regular
+1844418997,highway,turning_circle,regular
+1844420222,highway,turning_circle,regular
+1844451891,highway,turning_circle,regular
+1844451891,source,Bing,regular
+1844543731,highway,turning_circle,regular
+1844544080,highway,turning_circle,regular
+1844544513,highway,turning_circle,regular
+1844668046,highway,turning_circle,regular
+1844668559,highway,turning_circle,regular
+1844669330,highway,turning_circle,regular
+1844692231,highway,turning_circle,regular
+1844692284,highway,turning_circle,regular
+1845352888,highway,turning_circle,regular
+1846172287,highway,turning_circle,regular
+1846197493,highway,turning_circle,regular
+1846197493,source,Bing,regular
+1846201178,highway,turning_circle,regular
+1846207644,highway,turning_circle,regular
+1846236381,highway,turning_circle,regular
+1846675665,amenity,parking,regular
+1847223278,highway,turning_circle,regular
+1847223278,source,Bing,regular
+1847279337,power,tower,regular
+1847322079,highway,turning_circle,regular
+1847391063,highway,turning_circle,regular
+1847406824,highway,turning_circle,regular
+1848407700,highway,turning_circle,regular
+1848409756,power,tower,regular
+1848409756,source,bing,regular
+1848414527,highway,turning_circle,regular
+1848455104,highway,traffic_signals,regular
+1848552928,highway,turning_circle,regular
+1848978322,highway,turning_circle,regular
+1849009516,highway,turning_circle,regular
+1849009595,highway,traffic_signals,regular
+1849468100,amenity,school,regular
+1849468100,name,Henry Fulton Public School,regular
+1850430900,highway,turning_circle,regular
+1850526515,highway,turning_circle,regular
+1850526515,source,bing,regular
+1850633689,highway,turning_circle,regular
+1851048874,amenity,library,regular
+1851048874,name,Turramurra Library,regular
+1851226424,highway,turning_circle,regular
+1851345141,highway,turning_circle,regular
+1851345141,source,bing,regular
+1851615180,traffic_calming,choker,regular
+1852325515,barrier,gate,regular
+1852442117,highway,turning_circle,regular
+1853400012,highway,turning_circle,regular
+1853716338,highway,turning_circle,regular
+1854056852,cycleway,physical inspection of signage,source
+1854056986,cycleway,physical inspection of signage,source
+1854420325,highway,turning_circle,regular
+1854420325,source,bing,regular
+1854420671,highway,turning_circle,regular
+1854420671,source,bing,regular
+1854525497,highway,turning_circle,regular
+1854580405,highway,turning_circle,regular
+1854621060,highway,turning_circle,regular
+1854747028,highway,turning_circle,regular
+1854776340,highway,turning_circle,regular
+1854776444,highway,turning_circle,regular
+1854776592,highway,turning_circle,regular
+1854802614,highway,turning_circle,regular
+1854851757,highway,turning_circle,regular
+1854878679,highway,turning_circle,regular
+1854878992,highway,turning_circle,regular
+1854995988,highway,turning_circle,regular
+1855025287,highway,turning_circle,regular
+1855959796,source,GPS survey,regular
+1856288902,highway,turning_circle,regular
+1856289400,highway,turning_circle,regular
+1856453727,barrier,bollard,regular
+1857814327,highway,crossing,regular
+1858238017,bicycle,dismount,regular
+1858238017,crossing,uncontrolled,regular
+1858238017,crossing_ref,zebra,regular
+1858238017,highway,crossing,regular
+1858263028,highway,turning_circle,regular
+1858316992,highway,turning_circle,regular
+1859675796,landmark,statue`,regular
+1859973302,highway,turning_circle,regular
+1859973302,source,Bing,regular
+1859973327,highway,turning_circle,regular
+1859973327,source,Bing,regular
+1861262290,highway,turning_circle,regular
+1862527723,highway,crossing,regular
+1864214638,highway,turning_circle,regular
+1864815382,power,tower,regular
+1864815382,source,Bing,regular
+1866574307,highway,turning_circle,regular
+1867123756,highway,turning_circle,regular
+1867142027,leisure,slipway,regular
+1867142027,name,Launching Ramp,regular
+1869241669,source,Bing,regular
+1869432778,highway,turning_circle,regular
+1869903232,source,GPS survey,regular
+1870006572,highway,traffic_signals,regular
+1871335543,highway,turning_circle,regular
+1871335543,source,Bing,regular
+1872154197,housenumber,13,addr
+1872180815,housenumber,53,addr
+1872180815,street,Thomas Mitchell Drive,addr
+1872273740,highway,traffic_signals,regular
+1872283248,highway,turning_circle,regular
+1872305116,highway,turning_circle,regular
+1872466845,housenumber,3,addr
+1872466845,street,Silverleaf Row,addr
+1873078261,highway,turning_circle,regular
+1880640790,highway,traffic_signals,regular
+1883051556,railway,buffer_stop,regular
+1885236089,tourism,viewpoint,regular
+1886095363,barrier,gate,regular
+1886240876,name,Newtown,regular
+1886240876,operator,CityRail,regular
+1886240876,public_transport,station,regular
+1886240876,railway,station,regular
+1886240876,source,bing,regular
+1886255315,name,Narwee,regular
+1886255315,operator,Sydney Trains,regular
+1886255315,public_transport,station,regular
+1886255315,railway,station,regular
+1886255315,source,bing,regular
+1886265359,name,Guildford,regular
+1886265359,operator,CityRail,regular
+1886265359,public_transport,station,regular
+1886265359,railway,station,regular
+1886265359,source,bing,regular
+1893124564,name,Coles,regular
+1893124564,shop,supermarket,regular
+1893788190,amenity,kindergarten,regular
+1893788190,name,Little Dove,regular
+1894051986,power,pole,regular
+1894113989,power,pole,regular
+1894137414,power,pole,regular
+1894145744,power,pole,regular
+1894156689,power,pole,regular
+1894186719,power,pole,regular
+1894206940,power,pole,regular
+1894327023,city,Glebe,addr
+1894327023,housenumber,53-55,addr
+1894327023,street,Glebe Point Road,addr
+1894327023,amenity,cafe,regular
+1894327023,name,The Wedge Espresso,regular
+1897607629,housenumber,210,addr
+1897607629,street,Belgrave Esplanade,addr
+1899894035,power,pole,regular
+1900396983,name,Macquarie Park,regular
+1900396983,railway,subway_entrance,regular
+1909513645,amenity,parking,regular
+1909513645,capacity,35,regular
+1909513645,parking,surface,regular
+1912639300,housenumber,407,addr
+1912639300,street,Elizabeth Street,addr
+1912639300,source,Collected via KeypadMapper,regular
+1912639337,housenumber,517,addr
+1912639337,street,Elizabeth Street,addr
+1912639337,source,Collected via KeypadMapper,regular
+1912640845,housenumber,132,addr
+1912640845,street,Devonshire Street,addr
+1912640845,source,Collected via KeypadMapper,regular
+1912642741,housenumber,234,addr
+1912642741,street,George Street,addr
+1912642741,source,Collected via KeypadMapper,regular
+1912642773,housenumber,468,addr
+1912642773,street,George Street,addr
+1912642773,source,Collected via KeypadMapper,regular
+1912642803,housenumber,710,addr
+1912642803,street,George Street,addr
+1912642803,source,Collected via KeypadMapper,regular
+1912783652,amenity,library,regular
+1912796216,amenity,fire_station,regular
+1924371997,amenity,place_of_worship,regular
+1924371997,denomination,uniting,regular
+1924371997,name,St David's Uniting Church,regular
+1924371997,religion,christian,regular
+1925586084,railway,buffer_stop,regular
+1929033181,amenity,bicycle_parking,regular
+1929033181,capacity,3,regular
+1930063229,bicycle,yes,regular
+1930063229,crossing,traffic_signals,regular
+1930063229,highway,crossing,regular
+1941652129,amenity,waste_basket,regular
+1941652154,bicycle,yes,regular
+1941652154,crossing,traffic_signals,regular
+1941652154,crossing_ref,toucan,regular
+1941652154,highway,crossing,regular
+1946846332,highway,traffic_signals,regular
+1959657560,highway,bus_stop,regular
+1959657560,lines,303,regular
+1959706034,highway,bus_stop,regular
+1959706034,local_ref,Riverwood Community Centre,regular
+1971246244,highway,bus_stop,regular
+1971246244,local_ref,2150369,regular
+1971246244,name,Lennox Bridge,regular
+1971246244,source,survey,regular
+1971268162,highway,bus_stop,regular
+1971423581,amenity,school,regular
+1971423581,website,http://www.redeemer.nsw.edu.au/,contact
+1971423581,name,Redeemer Baptist School,regular
+1974543161,amenity,fuel,regular
+1974543161,brand,Woolworths,regular
+1974543161,diesel,yes,fuel
+1974543161,e10,yes,fuel
+1974543161,name,Woolworths Petrol Marsfield,regular
+1974543161,operator,Woolworths,regular
+1974543221,city,North Ryde,addr
+1974543221,housenumber,138a,addr
+1974543221,postcode,2113,addr
+1974543221,street,Coxs Road,addr
+1974543221,name,Lush Hair,regular
+1974543221,phone,(02) 9878 0011,regular
+1974543221,shop,hairdresser,regular
+1974699927,amenity,pharmacy,regular
+1974699927,designation,Chemist,regular
+1974699927,dispensing,yes,regular
+1974699927,name,Chemist,regular
+1974699927,source,Personal knowledge,regular
+1977411672,amenity,shelter,regular
+1980628950,highway,bus_stop,regular
+1980628950,local_ref,2121 11,regular
+1980628950,name,Epping Interchange,regular
+1980628950,source,survey,regular
+1980633270,highway,bus_stop,regular
+1980633270,name,Macquarie Centre Stand B,regular
+1980642818,highway,bus_stop,regular
+1980642818,local_ref,2118 40,regular
+1980642818,name,Carlingford Station,regular
+1980642818,source,survey,regular
+1980646529,highway,bus_stop,regular
+1980646529,local_ref,2117 145,regular
+1980675872,highway,bus_stop,regular
+1985391377,barrier,gate,regular
+1986159141,amenity,bicycle_parking,regular
+1986159141,source,survey,regular
+1987965769,source,GPS survey,regular
+1992174972,barrier,gate,regular
+1992174972,bicycle,yes,regular
+1992174972,foot,yes,regular
+1992174972,motorcar,yes,regular
+1992275308,bench,no,regular
+1992275308,highway,bus_stop,regular
+1992275308,shelter,no,regular
+1992275308,source,GPS survey,regular
+1992275308,tactile_paving,no,regular
+1998026486,amenity,parking,regular
+1998713249,source,GPS survey,regular
+1998713274,source,GPS survey,regular
+1998713299,source,GPS survey,regular
+1998713324,source,GPS survey,regular
+1998713349,source,GPS survey,regular
+1998713398,source,GPS survey,regular
+1998713451,source,GPS survey,regular
+1998713505,source,GPS survey,regular
+1998734999,source,GPS survey,regular
+1998750747,source,GPS survey,regular
+1999597092,source,GPS survey,regular
+1999597117,source,GPS survey,regular
+1999597142,source,GPS survey,regular
+2003842269,highway,turning_circle,regular
+2007176655,leisure,playground,regular
+2007176655,source,Bing,regular
+2007197036,highway,crossing,regular
+2017504965,name,Favourite Cycles,regular
+2017504965,shop,bicycle,regular
+2019198067,leisure,playground,regular
+2019456481,housenumber,2C,addr
+2019456481,postcode,2122,addr
+2019456481,street,Corunna Road,addr
+2019456481,amenity,fast_food,regular
+2019456481,cuisine,seafood,regular
+2045022284,amenity,bicycle_parking,regular
+2045022284,source,survey,regular
+2045059223,amenity,bicycle_parking,regular
+2045059223,source,survey,regular
+2045345871,amenity,fuel,regular
+2045345871,brand,Shell,regular
+2045345871,e10,yes,fuel
+2045345871,name,Coles Express,regular
+2045345871,operator,Coles,regular
+2051194668,highway,traffic_signals,regular
+2053893778,highway,bus_stop,regular
+2059394311,amenity,telephone,regular
+2059418014,highway,bus_stop,regular
+2071355945,highway,traffic_signals,regular
+2072369638,highway,turning_circle,regular
+2072559633,amenity,kindergarten,regular
+2072559633,name,Amigoss Preschool and Long Day Care,regular
+2085407321,amenity,shelter,regular
+2085407321,source,survey,regular
+2103671318,amenity,bench,regular
+2103671318,backrest,yes,regular
+2103671318,colour,brown,regular
+2103671318,material,wood,regular
+2103671318,seats,4,regular
+2103671318,source,GPS survey,regular
+2113239689,bus,yes,regular
+2113239689,highway,bus_stop,regular
+2113239689,operator,Transdev,regular
+2113239689,public_transport,stop_position,regular
+2113239689,source,GPS survey,regular
+2115104778,amenity,cinema,regular
+2115104778,name,Orpheum Cinema,regular
+2115185401,source,GPS survey,regular
+2115186804,source,GPS survey,regular
+2115186829,source,GPS survey,regular
+2115191817,source,GPS survey,regular
+2117205409,source,GPS survey,regular
+2117205434,source,GPS survey,regular
+2118913095,leisure,dog_park,regular
+2130285444,highway,turning_circle,regular
+2130503471,amenity,car_rental,regular
+2130503471,brand,Thrifty,regular
+2130503471,name,Thrifty,regular
+2130503471,operator,Thrifty,regular
+2130503471,source,voice,regular
+2131830394,fixme,needs survey,regular
+2135532735,source,GPS survey,regular
+2135532761,source,GPS survey,regular
+2135532786,source,GPS survey,regular
+2135532811,source,GPS survey,regular
+2136805454,highway,bus_stop,regular
+2136836201,barrier,gate,regular
+2136836201,foot,yes,regular
+2136836201,source,GPS survey,regular
+2138462533,noexit,yes,regular
+2138678427,amenity,restaurant,regular
+2138678427,cuisine,indian,regular
+2138678427,note,done from memory,regular
+2138678427,source,local_knowledge,regular
+2138793315,city,Padstow,addr
+2138793315,postcode,2211,addr
+2138793315,amenity,restaurant,regular
+2138793315,cuisine,thai,regular
+2138793315,name,Doytao Thai,regular
+2138793315,source,survey,regular
+2138793315,wifi,no,regular
+2139757571,amenity,dentist,regular
+2139757571,name,Padstow Ideal Dental,regular
+2139757571,source,local_knowledge,regular
+2139774307,housenumber,188,addr
+2139774307,postcode,2065,addr
+2139774307,street,Pacific Highway,addr
+2139774307,name,Jaycar,regular
+2139774307,shop,electronics,regular
+2141091423,housenumber,3a,addr
+2141091423,street,Padstow Parade,addr
+2141091423,name,Vanessa Nails,regular
+2141091423,phone,+61 2 97719389,regular
+2141091423,shop,beauty,regular
+2141091423,source,survey,regular
+2141119879,city,Padstow,addr
+2141119879,postcode,2211,addr
+2141119879,street,Padstow Parade,addr
+2141119879,name,Panificio Italiano,regular
+2141119879,shop,deli,regular
+2141119879,source,survey,regular
+2142234017,amenity,waste_basket,regular
+2143886987,housenumber,9,addr
+2143886987,street,Corination,addr
+2143886987,source,survey,regular
+2144956363,amenity,bench,regular
+2144956363,backrest,no,regular
+2144956363,colour,gray,regular
+2144956363,material,metal,regular
+2144956363,seats,5,regular
+2144956388,barrier,gate,regular
+2144956388,foot,yes,regular
+2144956388,source,GPS survey,regular
+2144956413,barrier,gate,regular
+2144956413,foot,yes,regular
+2145220516,housenumber,229,addr
+2145220516,street,Pacific Highway,addr
+2145220516,source,survey,regular
+2146439844,housenumber,97,addr
+2146439844,street,Galston Road,addr
+2146439844,source,survey,regular
+2148441587,highway,turning_circle,regular
+2149782479,bus,yes,regular
+2149782479,public_transport,stop_position,regular
+2149782479,source,survey,regular
+2155577878,leisure,sports_centre,regular
+2155577878,name,Mosman Bowling Club,regular
+2156879871,bench,no,regular
+2156879871,highway,bus_stop,regular
+2156879871,shelter,no,regular
+2156879871,source,GPS survey,regular
+2156879871,tactile_paving,no,regular
+2158315881,leisure,playground,regular
+2163649382,amenity,pub,regular
+2163649382,name,The Moorebank Hotel,regular
+2163772215,name,3205,regular
+2163772215,power,sub_station,regular
+2163772215,source,GPS survey,regular
+2170243950,amenity,parking,regular
+2174336041,amenity,cafe,regular
+2174686978,amenity,parking,regular
+2174686978,source,local_knowledge,regular
+2176193334,area,yes,regular
+2176193435,area,yes,regular
+2176193534,area,yes,regular
+2176193622,area,yes,regular
+2176193723,area,yes,regular
+2176193825,area,yes,regular
+2176193896,area,yes,regular
+2176193997,area,yes,regular
+2176194100,area,yes,regular
+2176194135,area,yes,regular
+2176194201,area,yes,regular
+2176194265,area,yes,regular
+2176194300,area,yes,regular
+2176204981,area,yes,regular
+2177186068,amenity,swimming_pool,regular
+2177186068,sport,swimming,regular
+2178006730,source,GPS survey,regular
+2178006755,source,GPS survey,regular
+2178006780,source,GPS survey,regular
+2178006805,amenity,shelter,regular
+2178006805,shelter_type,picnic_shelter,regular
+2178006805,source,GPS survey,regular
+2178006830,amenity,bench,regular
+2178006830,backrest,yes,regular
+2178006830,colour,brown,regular
+2178006830,material,wood,regular
+2178006830,seats,4,regular
+2178006830,source,GPS survey,regular
+2178006855,name,5297,regular
+2178006855,power,sub_station,regular
+2178006855,source,GPS survey,regular
+2179162255,name,Target,regular
+2179162255,shop,department_store,regular
+2184854359,highway,turning_circle,regular
+2189149284,highway,crossing,regular
+2189149309,highway,crossing,regular
+2189149309,source,Bing,regular
+2189153444,highway,crossing,regular
+2191792254,leisure,playground,regular
+2191792254,source,bing,regular
+2195223325,amenity,fast_food,regular
+2195223325,cuisine,pizza,regular
+2195223325,name,Pizza King,regular
+2195223325,phone,+61298334833,regular
+2195223325,source,survey,regular
+2200931299,name,Myer,regular
+2200931299,shop,department_store,regular
+2232698701,crossing,traffic_signals,regular
+2232698701,highway,crossing,regular
+2254731198,highway,bus_stop,regular
+2254731198,name,Kenneth Rd Near Addiscombe Rd,regular
+2260079917,power,pole,regular
+2260079917,ref,DU20150,regular
+2260079967,power,pole,regular
+2260079967,ref,DU20146,regular
+2261124632,source,GPS survey,regular
+2264936262,housenumber,5,addr
+2264936262,street,Lilli Pilli Point Road,addr
+2266582443,housenumber,141,addr
+2266582443,street,Waratah Street,addr
+2269238110,highway,traffic_signals,regular
+2270233422,barrier,gate,regular
+2270233422,foot,yes,regular
+2270233422,source,GPS survey,regular
+2270233448,source,GPS survey,regular
+2270233473,source,GPS survey,regular
+2271392565,housenumber,35,addr
+2271392565,street,Kenneth Street,addr
+2273318023,power,pole,regular
+2273318023,source,bing,regular
+2276393687,barrier,gate,regular
+2276393687,foot,yes,regular
+2276393687,source,GPS survey,regular
+2276401956,power,pole,regular
+2276401956,ref,DU20191;DU20192,regular
+2276401956,source,GPS survey,regular
+2276988160,power,tower,regular
+2277963819,highway,traffic_signals,regular
+2279068497,name,culvert,regular
+2279068497,source,GPS survey,regular
+2281691288,highway,crossing,regular
+2285152995,highway,turning_circle,regular
+2287567932,highway,traffic_signals,regular
+2287579820,power,tower,regular
+2290925478,housenumber,853-764,address
+2290925478,street,Old Princes Highway,addr
+2290925478,name,TAB,regular
+2290925478,shop,betting,regular
+2293201859,name,Playgroup,regular
+2294152333,power,pole,regular
+2294152333,ref,DU0211,regular
+2294152333,source,GPS survey,regular
+2294186785,source,ABS2011-data.gov.au,regular
+2294186835,source,ABS2011-data.gov.au,regular
+2295393998,source,ABS2011-data.gov.au;bing;interpolation,regular
+2295394088,source,ABS2011-data.gov.au;bing;interpolation,regular
+2296847308,source,ABS2011-data.gov.au,regular
+2296847366,source,ABS2011-data.gov.au,regular
+2296847411,source,ABS2011-data.gov.au,regular
+2296847585,source,ABS2011-data.gov.au,regular
+2296896663,source,ABS2011-data.gov.au,regular
+2296896688,source,ABS2011-data.gov.au,regular
+2296896713,source,ABS2011-data.gov.au,regular
+2296896738,source,ABS2011-data.gov.au,regular
+2296896763,source,ABS2011-data.gov.au,regular
+2296896793,source,ABS2011-data.gov.au,regular
+2296896844,source,ABS2011-data.gov.au,regular
+2296896873,source,ABS2011-data.gov.au,regular
+2296896898,source,ABS2011-data.gov.au,regular
+2296896923,source,ABS2011-data.gov.au,regular
+2296896948,source,ABS2011-data.gov.au,regular
+2296896973,source,ABS2011-data.gov.au,regular
+2296896998,source,ABS2011-data.gov.au,regular
+2296897023,source,ABS2011-data.gov.au,regular
+2296897048,source,ABS2011-data.gov.au,regular
+2296897073,source,ABS2011-data.gov.au,regular
+2296897098,source,ABS2011-data.gov.au,regular
+2296927922,highway,crossing,regular
+2296983782,amenity,bank,regular
+2296983782,atm,yes,regular
+2296983782,name,Commonwealth Bank of Australia,regular
+2298936698,housenumber,476,addr
+2303042569,access,no,regular
+2303042569,barrier,gate,regular
+2304415127,amenity,cafe,regular
+2304415127,name,Cafe Isar,regular
+2310754088,historic,archaeological_site,regular
+2310754088,name,former boatshed site,regular
+2310888472,housenumber,25,addr
+2310888472,street,Kenneth Street,addr
+2317825725,bench,no,regular
+2317825725,highway,bus_stop,regular
+2317825725,shelter,no,regular
+2317825725,source,GPS survey,regular
+2317825725,tactile_paving,no,regular
+2317825775,barrier,gate,regular
+2317825775,motorcar,yes,regular
+2319236963,amenity,pharmacy,regular
+2319236963,name,Beverly Hills Pharmacy,regular
+2322771635,highway,traffic_signals,regular
+2325156321,traffic_calming,bump,regular
+2328926562,housenumber,111,addr
+2328926562,street,Gallipoli Street,addr
+2328926562,amenity,childcare,regular
+2328926562,image,http://osm.stayneutral.com/1370039246.jpg,regular
+2328926562,name,Kids Cubby Kindy,regular
+2330493969,crossing,uncontrolled,regular
+2330493969,highway,crossing,regular
+2330509922,leisure,marina,regular
+2332346495,highway,traffic_signals,regular
+2332727455,amenity,waste_basket,regular
+2332727455,source,GPS survey,regular
+2332727564,barrier,gate,regular
+2332727564,foot,yes,regular
+2332727564,source,GPS survey,regular
+2332747015,source,ABS2011-data.gov.au;bing,regular
+2332747040,source,ABS2011-data.gov.au;bing,regular
+2334195989,highway,turning_circle,regular
+2334927276,amenity,parking,regular
+2336993591,crossing,uncontrolled,regular
+2336993591,highway,crossing,regular
+2337790415,highway,crossing,regular
+2337790440,highway,traffic_sign,regular
+2337790440,traffic_sign,AU:No_Through_Road,regular
+2341532420,barrier,cycle_barrier,regular
+2342687325,highway,traffic_signals,regular
+2346772875,housenumber,7,addr
+2347231080,housenumber,22,addr
+2347231080,source,extrapolation,regular
+2347245108,housenumber,601A,addr
+2347245108,postcode,2079,addr
+2347245108,street,Pacific Hwy,addr
+2347245108,designation,Alcohol shop,regular
+2347245108,name,Liquorland Mount Colah,regular
+2347245108,shop,alcohol,regular
+2350754449,housenumber,1,addr
+2351759861,housenumber,21,addr
+2351762160,highway,bus_stop,regular
+2352000537,housenumber,18,addr
+2352000537,street,Clementine Street,addr
+2352000537,image,http://osm.stayneutral.com/1370649782.1.jpg,regular
+2352000537,source,survey,regular
+2352012122,housenumber,28,addr
+2352012122,street,Parklea Drive,addr
+2352012122,source,survey,regular
+2352029446,housenumber,17,addr
+2352029446,street,Tangerine Drive,addr
+2352029446,source,survey,regular
+2354052581,housenumber,121,addr
+2354390546,housename,Bosch Lecture Theatre,addr
+2354390546,street,Western Avenue,addr
+2354390546,building,school,regular
+2354390546,name,Bosch Lecture Theatre,regular
+2354401698,housenumber,2,addr
+2355431513,housenumber,1154,addr
+2355585733,amenity,drinking_water,regular
+2355599908,highway,traffic_signals,regular
+2356707617,highway,turning_circle,regular
+2358141598,barrier,gate,regular
+2358141598,foot,yes,regular
+2358141598,source,GPS survey,regular
+2358141698,highway,turning_circle,regular
+2358141698,source,GPS survey,regular
+2366460384,barrier,gate,regular
+2366460384,source,bing,regular
+2376760952,name,Coal Seam Gas Well,regular
+2376760952,power,generator,regular
+2376760952,power_source,gas,regular
+2385316862,housenumber,68,addr
+2386873696,highway,crossing,regular
+2386873846,highway,crossing,regular
+2390154108,housenumber,44-54,addr
+2390154108,name,Hoya Lens Australia,regular
+2394947850,highway,traffic_sign,regular
+2394947850,image,http://osm.stayneutral.com/1373761374.jpg,regular
+2394947850,maxspeed,50,regular
+2394947850,traffic_sign,maxspeed,regular
+2397155836,housenumber,108,addr
+2397155836,street,Ninth Avenue,addr
+2397155836,image,http://osm.stayneutral.com/1373761570.jpg,regular
+2397155836,addr,survey,source
+2402314096,barrier,gate,regular
+2402314096,foot,yes,regular
+2402314096,source,GPS survey,regular
+2404578892,highway,bus_stop,regular
+2404578892,name,Windsor Road opposite Roxborough Park Road,regular
+2404616888,highway,bus_stop,regular
+2404616888,name,Rouse Hill Town Centre,regular
+2404616888,source,survey,regular
+2405016825,highway,bus_stop,regular
+2405016825,name,Windsor Road opposite Coronation Road,regular
+2405016825,source,survey,regular
+2406527807,bench,no,regular
+2406527807,highway,bus_stop,regular
+2406527807,shelter,no,regular
+2406527807,source,GPS survey,regular
+2406527807,tactile_paving,no,regular
+2412508012,barrier,gate,regular
+2423679465,amenity,fuel,regular
+2423679465,name,BP,regular
+2423679465,operator,BP,regular
+2423724791,highway,turning_circle,regular
+2426083742,name,White Triangle Point,regular
+2426083742,tourism,viewpoint,regular
+2429903394,highway,bus_stop,regular
+2429903394,ref,215383,regular
+2429957251,highway,bus_stop,regular
+2429957279,highway,bus_stop,regular
+2432032354,amenity,parking,regular
+2432219454,highway,bus_stop,regular
+2432219454,local_ref,215427,regular
+2432219454,name,Showground Road near Carrington Road,regular
+2432232223,highway,bus_stop,regular
+2432263196,highway,bus_stop,regular
+2432263221,highway,bus_stop,regular
+2432263221,name,Cook Street opposite Reppan Avenue,regular
+2433178419,highway,bus_stop,regular
+2433178419,name,Churchill Drive near Willmott Avenue,regular
+2433188641,highway,bus_stop,regular
+2433188641,name,Roxborough Park Road near Talisman Avenue,regular
+2433689742,highway,bus_stop,regular
+2433689742,name,Watkins Road near George best Crescent,regular
+2433689818,highway,bus_stop,regular
+2433689818,name,Middleton Avenue near Carrington Road,regular
+2434046604,highway,bus_stop,regular
+2434046604,name,Foveaux Street / Terry Street,regular
+2434575171,amenity,restaurant,regular
+2434575171,cuisine,pizza,regular
+2434575171,name,Pizza Hut,regular
+2435038155,crossing,toucan,regular
+2435908057,highway,bus_stop,regular
+2435991025,highway,bus_stop,regular
+2435998415,highway,bus_stop,regular
+2436016332,highway,bus_stop,regular
+2436016370,highway,bus_stop,regular
+2439891713,highway,crossing,regular
+2441199652,housenumber,42,addr
+2441199652,street,Newman Street,addr
+2441199652,image,http://osm.stayneutral.com/1377925662.1.jpg,regular
+2443805444,sport,baseball,regular
+2443812917,highway,traffic_signals,regular
+2448706388,housenumber,11,addr
+2448706388,building,residential,regular
+2449108745,amenity,fast_food,regular
+2449108745,name,Chiack-a-licious,regular
+2455349767,name,Tempe,regular
+2455349767,place,suburb,regular
+2455349767,location,estimation,source
+2458958775,highway,bus_stop,regular
+2458958775,source,survey,regular
+2458958800,highway,bus_stop,regular
+2458958800,source,survey,regular
+2458992872,highway,bus_stop,regular
+2458992872,source,survey,regular
+2458997295,highway,bus_stop,regular
+2458997295,source,survey,regular
+2459150678,highway,bus_stop,regular
+2459150678,source,survey,regular
+2459183881,highway,bus_stop,regular
+2459183881,local_ref,2126152,regular
+2459183881,name,Darlington Drive,regular
+2459183881,source,survey,regular
+2459988262,highway,bus_stop,regular
+2459988262,source,survey,regular
+2466140554,amenity,bbq,regular
+2466140579,amenity,bbq,regular
+2468609141,leisure,playground,regular
+2472085422,amenity,parking,regular
+2473493451,highway,traffic_signals,regular
+2490540049,city,Wentworthville,addr
+2490540049,housenumber,78,addr
+2490540049,postcode,2145,addr
+2490540049,street,Station St,addr
+2490540049,name,Udaya Spice,regular
+2490540049,phone,+61 2 9688 3954,regular
+2490540049,shop,supermarket,regular
+2490540049,wheelchair,limited,regular
+2493382909,amenity,fast_food,regular
+2493382909,cuisine,pizza,regular
+2493382909,name,Domino's,regular
+2493382909,source,survey,regular
+2494199764,amenity,place_of_worship,regular
+2494199764,building,church,regular
+2494199764,religion,christian,regular
+2494219660,building,residential,regular
+2494219660,levels,3,building
+2496114836,amenity,toilets,regular
+2496114836,diaper,yes,regular
+2496114836,fee,yes,regular
+2496114836,female,yes,regular
+2496114836,male,yes,regular
+2496114836,wheelchair,yes,regular
+2508132669,highway,turning_circle,regular
+2522950189,highway,bus_stop,regular
+2522950189,local_ref,204718,regular
+2524208130,amenity,cafe,regular
+2524208130,name,Guylian,regular
+2524906983,highway,bus_stop,regular
+2524906983,local_ref,211639,regular
+2524906983,name,Myrtle Street,regular
+2524931843,highway,bus_stop,regular
+2524931843,local_ref,211224,regular
+2524931843,source,survey,regular
+2534784826,crossing,uncontrolled,regular
+2534784826,highway,crossing,regular
+2537701409,highway,bus_stop,regular
+2537701409,source,survey,regular
+2537701513,highway,bus_stop,regular
+2537701513,source,survey,regular
+2537723886,amenity,post_box,regular
+2545467613,highway,traffic_signals,regular
+2546376553,natural,tree,regular
+2546376553,type,palm,regular
+2546391062,name,Coles Waterloo,regular
+2546391062,shop,supermarket,regular
+2548269177,highway,bus_stop,regular
+2555092655,highway,turning_circle,regular
+2558096203,crossing,unmarked,regular
+2558096203,highway,crossing,regular
+2558292693,tourism,viewpoint,regular
+2565658500,highway,bus_stop,regular
+2565658550,highway,bus_stop,regular
+2565662991,highway,bus_stop,regular
+2569340674,city,Sydney,addr
+2569340674,country,AU,addr
+2569340674,housenumber,12,addr
+2569340674,postcode,2088,addr
+2569340674,street,Ryan Av.,addr
+2569340772,city,Sydney,addr
+2569340772,country,AU,addr
+2569340772,housenumber,28,addr
+2569340772,postcode,2088,addr
+2569340772,street,Lower Almora St.,addr
+2569340866,city,Sydney,addr
+2569340866,country,AU,addr
+2569340866,housenumber,65,addr
+2569340866,postcode,2088,addr
+2569340866,street,Mandolong Road,addr
+2573332201,amenity,post_box,regular
+2573332201,operator,Australia Post,regular
+2573332201,source,survey,regular
+2573959531,amenity,fuel,regular
+2573959531,name,Coles Express,regular
+2573959531,source,voice,regular
+2573959930,noexit,yes,regular
+2575301576,natural,tree,regular
+2575301576,type,conifer,regular
+2575316421,natural,tree,regular
+2575316421,type,conifer,regular
+2575319348,natural,tree,regular
+2575319348,type,broad_leaved,regular
+2576583762,natural,tree,regular
+2576583762,type,conifer,regular
+2576585379,natural,tree,regular
+2576585379,type,broad_leaved,regular
+2579040003,amenity,post_office,regular
+2579040003,name,Epping,regular
+2581828762,natural,tree,regular
+2581828762,type,palm,regular
+2584319317,natural,tree,regular
+2584319317,type,broad_leaved,regular

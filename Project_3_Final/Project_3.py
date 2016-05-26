@@ -14,30 +14,30 @@ street_type_re = re.compile(r'\b\S+\.?$', re.IGNORECASE)
 # ------------------------------------------
 
 def main():
-    if False:
-        '''find out the frequency for all tags in file'''
-        print_all_tags(filename)
 
-    if False:
-        '''list out the top 20 keys with the most frequency in each tag'''
-        print_top_keys(filename)
+    '''find out the frequency for all tags in file'''
+    print_all_tags(filename)
 
-    if False:
-        '''find the first 20 unique values for each top key'''
-        MAX_COUNT = 20
-        top_keys = ['highway', 'source', 'name', 'building', 'created_by', 'oneway', 'maxspeed',
-                    'addr:street', 'amenity', 'surface', 'foot', 'leisure', 'layer', 'bicycle',
-                    'ref', 'source:name', 'service', 'railway', 'landuse', 'operator']
 
-        pprint(key_values(top_keys, MAX_COUNT))
+    '''list out the top 20 keys with the most frequency in each tag'''
+    print_top_keys(filename)
 
-    if False:
-        '''correct maxspeed values'''
-        improve_maxspeed(filename)
 
-    if True:
-        '''correct street names'''
-        improve_street_names(filename)
+    '''find the first 20 unique values for each top key'''
+    MAX_COUNT = 20
+    top_keys = ['highway', 'source', 'name', 'building', 'created_by', 'oneway', 'maxspeed',
+                'addr:street', 'amenity', 'surface', 'foot', 'leisure', 'layer', 'bicycle',
+                'ref', 'source:name', 'service', 'railway', 'landuse', 'operator']
+
+    pprint(key_values(top_keys, MAX_COUNT))
+
+
+    '''correct maxspeed values'''
+    improve_maxspeed(filename)
+
+
+    '''correct street names'''
+    improve_street_names(filename)
 
 
 # ------------------------------------------
